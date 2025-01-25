@@ -63,51 +63,30 @@ Each regional repository contains the following folders and subfolders:
 
  2) **Replacement_Embodied_Carbon**: This folder includes data on embodied carbon associated with replacing existing buildings with new constructions following destructive events. It covers material production (modules A1- A3) and construction (modules A4-A5) of new structures, as well as end-of-life processes (modules C1-C4) of existing damaged buildings.
 
-	 To address the material production stage, we derive embodied carbon factors for various construction materials and structural and nonstructural building components commonly used in new constructions. This is achieved through an extensive review and collection of environmental-impact data from dozens of sources in the literature, representative of the different global regions.
-
 	 The folder contains:
 
 	 - **components**, including:
 
-	 	- **carbon_class_mapping**: A CSV file that maps the existing building types with carbon classes, reflecting whether a Built Back Better (BBB) approach is assumed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
+		 	- **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is assumed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
 
-    - **structural**: CSV files with quantities per built area and embodied carbon factors of key structural members
-    - **nonstructural**: CSV files with quantities per built area and embodied carbon factors of key nonstructural members
+	    - **structural**: CSV files with quantities per built area and embodied carbon factors of key structural members
+	    - **nonstructural**: CSV files with quantities per built area and embodied carbon factors of key nonstructural members
 
-	    Each CSV file for structural and nonstructural components contains the following columns:
+		    Each CSV file for structural and nonstructural components contains the following columns:
 
-	    - **NO**: Sequential number of the component
-	    - **ITEM**: Type of structural or nonstructural component
-	    - **QUANTITY**: Quantity of component per built area (in square meters)
-	    - **QUANTITY_UNITS**: Units for the quantity (e.g., cubic meters per square meter)
-	    - **EC**: embodied carbon factor (in kg of CO<sub>2</sub>e) per embodied carbon unit (below)
-	    - **EC_UNITS**: Units for the embodied carbon factor (e.g., kg of CO<sub>2</sub>e per cubic meter of component)
-	    - **MF**: Mass factor of component (in kg per quantity unit). This value is set to zero for components excluded from the total building mass calculation, where only structure and envelope are included)
+		    - **NO**: Sequential number of the component
+		    - **ITEM**: Type of structural or nonstructural component
+		    - **QUANTITY**: Quantity of component per built area (in square meters)
+		    - **QUANTITY_UNITS**: Units for the quantity (e.g., cubic meters per square meter)
+		    - **EC**: Embodied carbon factor (in kg of CO<sub>2</sub>e) per embodied carbon unit (below)
+		    - **EC_UNITS**: Units for the embodied carbon factor (e.g., kg of CO<sub>2</sub>e per cubic meter of component)
+		    - **MF**: Mass factor of component (in kg per quantity unit). This value is set to zero for components excluded from the total building mass calculation, where only structure and envelope are included)
 
-	   
-	- **embodied_carbon_factors**: The subfolder contains embodied carbon factors for varous life-cycle modules (e.g. A1-A3, A4-A5, C1-C4) of different building types, distinguishing between structural and nonstructural components, as well as summaries of Replacement Embodied Carbon for each building type and country, and the embodied-carbon exposure map of the region.
+	 - **embodied_carbon_factors**: The subfolder contains embodied carbon factors for various life-cycle modules (e.g. A1-A3, A4-A5, C1-C4) of different building types, distinguishing between structural and nonstructural components, as well as summaries of Replacement Embodied Carbon for each building type and country, and the embodied-carbon exposure map of the region.
 
 ## How is the embodied carbon of an individual component calculated?
 
-Buildings generate both embodied and operational carbon throughout their life cycles. Embodied carbon accounts for emissions associated with modules A1-A5, B1-B5, and C1-C4 (see Figure below), while operational carbon pertains exclusively to modules B6-B7. The carbon emitted during the material production stage can represent up to 50% of the whole life-cycle carbon (embodied + operational)[^1] and nearly 85% of the total embodied carbon [^2]. The second largest contribution comes from operational energy and water use (modules B6-B7). Additionally, emissions caused by earthquake damage and subsequent repairs contribute further to the embodied carbon during the building’s use stage (e.g., as part of modules B3-B5).
-
-<img src="./methodology/LCA_modules.jpg" alt="LCA modules" width="700">
-
-Our primary focus is the embodied carbon generated by repair and reconstruction activities following earthquakes. Hence, we specifically address the directly relevant modules, as outlined in the workflow below: A1-A5, covering all cradle-to-practical-completion activities, and C1-C4, which encompass the end-of-life processes as part of pre-reconstruction activities.
-
-<img src="./methodology/EC_workflow.jpg" alt="EC workflow" width="700">
-
-For modules A1-A3 (production), the embodied carbon of an individual component is calculated as follows:
-
-**EC_total = QUANTITY x EC**
-
-The embodied carbon of modules A4 (transportation to construction site) is calculated by multiplying the transported mass and distance (with empty runs) from the factory to the construction site, with a suitable transport carbon factor (kg CO<sub>2</sub>e per ton km). Here, we assume that trucks (i.e., heavy-duty vehicles, HDVs) will travel an average distance of 120 km from factory to site for all materials and components, considering national manufacturers only [^3]. We further add 70% to this distance to account for empty return. The transported mass is determined as follows (structure + envelope):
-
-**M_total = QUANTITY x MF**
-
-Module A5 (construction) captures the embodied carbon associated with the construction stage like installation, workers’ transportation, and waste management. We solely focus on installation processes and waste production. For the former, we compute the on-site diesel machinery emissions required to lift the main structural and envelope components, as the potential gravitational energy from lifting these components to half of the building’s height multiplied by a diesel carbon factor (kg CO<sub>2</sub>e per MJ). We then assume an average of 3% of waste materials [^3] are generated during the construction activities.
-
-For the end-of-life stage of the existing building being replaced, we address the embodied carbon of module C1 (demolition) by assuming an average amount of carbon dioxide equivalents per unit area of de-construction [^3]. We treat module C2 (waste transport) similarly to module A4, but with a shorter travel distance of 50 km, given that landfill sites are typically local [^4]. We increase this distance by 50% to account for the return trips of empty trucks. For modules C3 and C4 (waste processing and disposal), we compute the embodied carbon at an average rate of carbon dioxide equivalents for 1 kg of waste material [^3]. We also assume a percentage of waste materials landfilled, differentiated by region.
+The methodology is described in some detail in the dedicated [folder](https://github.com/gem/global_embodied_carbon_model/tree/revised_structure_new/methodology).
 
 For further details on the methodology, refer to the Publications listed below.
 
@@ -115,15 +94,6 @@ For further details on the methodology, refer to the Publications listed below.
 
 The building classes defined herein follow the GEM Taxonomy v3.2 convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings and the `Taxonomy_tables_v3.2.xlsx` available [here](https://github.com/gem/gem_taxonomy/tree/master).
 
-# 👨‍👩‍👧‍👦 Related datasets and resources
-
-Users interested in the global embodied carbon model might find the following GEM Foundation products useful:
-
-* [Global Exposure Model](https://www.globalquakemodel.org/product/global-exposure-model)
-* [Global Seismic Risk Map](https://www.globalquakemodel.org/products/global-seismic-risk-map)
-* [Global Seismic Hazard Map](https://www.globalquakemodel.org/product/global-seismic-hazard-map)
-* [Global Vulnerability Model](https://www.globalquakemodel.org/product/global-vulnerability-model)
-* [OpenQuake engine](https://www.globalquakemodel.org/product/openquake-engine)
 
 # 📚 Publications
 
@@ -155,9 +125,12 @@ Any deviation from these terms incurs license infringement. For commercial use o
 
 This model represents the best information that is publicly accessible. While undertaking to provide practical and accurate information, the authors assume no liability for, nor express or imply any warranty with regard to the information contained herein. Users of information expressed herein assume all liability arising from such use.
 
-## References
+# 👨‍👩‍👧‍👦 Related datasets and resources
 
-[^1]: LETI. Embodied Carbon Primer - Supplementary Guidance to the Climate Emergency Design Guide. (2020).
-[^2]: Magwood, C. & Huynh, T. The Hidden Climate Impact of Residential Construction. (2023).
-[^3]: RICS. Whole Life Carbon Assessment for the Built Environment RICS Professional Standard. www.rics.org (2023).
-[^4]: Hart, J., D’Amico, B. & Pomponi, F. Whole-life embodied carbon in multistory buildings: Steel, concrete and timber structures. J Ind Ecol 25, 403–418 (2021).
+Users interested in the global embodied carbon model might find the following GEM Foundation products useful:
+
+* [Global Exposure Model](https://www.globalquakemodel.org/product/global-exposure-model)
+* [Global Seismic Risk Map](https://www.globalquakemodel.org/products/global-seismic-risk-map)
+* [Global Seismic Hazard Map](https://www.globalquakemodel.org/product/global-seismic-hazard-map)
+* [Global Vulnerability Model](https://www.globalquakemodel.org/product/global-vulnerability-model)
+* [OpenQuake engine](https://www.globalquakemodel.org/product/openquake-engine)
