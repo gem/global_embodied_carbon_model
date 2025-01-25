@@ -1,4 +1,4 @@
-# 🌱 Region Embodied Carbon Model
+# 🌱 Region Seismic Embodied Carbon Model
 
 
 <p align="center">

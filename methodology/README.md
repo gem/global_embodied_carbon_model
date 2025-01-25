@@ -1,6 +1,6 @@
-# 🌱 Global Embodied Carbon Model
+# 🌱 Global Seismic Embodied Carbon Model
 
-# ✨ Methodology
+# 📝 Methodology
 
 Buildings generate both embodied and operational carbon throughout their life cycles. Embodied carbon accounts for emissions associated with modules A1-A5, B1-B5, and C1-C4 (see Figure below), while operational carbon pertains exclusively to modules B6-B7. The carbon emitted during the material production stage can represent up to 50% of the whole life-cycle carbon (embodied + operational)[^1] and nearly 85% of the total embodied carbon [^2]. The second largest contribution comes from operational energy and water use (modules B6-B7). Emissions caused by earthquake damage and subsequent repairs contribute further to the embodied carbon during the building’s use stage (e.g., as part of modules B3-B5).
 
@@ -24,15 +24,15 @@ For the end-of-life stage of the existing building being replaced, we address th
 
 For further details on the methodology, refer to the Publications listed below.
 
+# 📚 Publications
+
+Please cite the work as follows:
+
+Martina Caruso, Vitor Silva, Karim Aljawhari, Al Mouayed Bellah Nafeh, Carmine Galasso. Unveiling the Environmental Impact of Earthquakes in Europe, 08 November 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5283610/v1]. DOI: https://doi.org/10.21203/rs.3.rs-5283610/v.
+
 ## References
 
 [^1]: LETI. Embodied Carbon Primer - Supplementary Guidance to the Climate Emergency Design Guide. (2020).
 [^2]: Magwood, C. & Huynh, T. The Hidden Climate Impact of Residential Construction. (2023).
 [^3]: RICS. Whole Life Carbon Assessment for the Built Environment RICS Professional Standard. www.rics.org (2023).
 [^4]: Hart, J., D’Amico, B. & Pomponi, F. Whole-life embodied carbon in multistory buildings: Steel, concrete and timber structures. J Ind Ecol 25, 403–418 (2021).
-
-# 📚 Publications
-
-Please cite the work as follows:
-
-Martina Caruso, Vitor Silva, Karim Aljawhari, Al Mouayed Bellah Nafeh, Carmine Galasso. Unveiling the Environmental Impact of Earthquakes in Europe, 08 November 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5283610/v1]. DOI: https://doi.org/10.21203/rs.3.rs-5283610/v.

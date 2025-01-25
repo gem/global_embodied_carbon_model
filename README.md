@@ -1,4 +1,4 @@
-# 🌱 Global Embodied Carbon Model
+# 🌱 Global Seismic Embodied Carbon Model
 
 <div align='center'>
 
@@ -53,9 +53,9 @@ The following regions, countries and territories are covered in this repository.
 | South_Asia                | Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan, Sri_Lanka |
 | Southeast_Asia            | Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor_Leste, Vietnam |
 
-# 🔎 Explanation of repository content
+# 🔎 Explanation of the content
 
-## Regions
+## Regional repositories
 
 Each regional repository contains the following folders and subfolders:
 
@@ -67,8 +67,7 @@ Each regional repository contains the following folders and subfolders:
 
 	 - **components**, including:
 
-		 	- **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is assumed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
-
+			- **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
 	    - **structural**: CSV files with quantities per built area and embodied carbon factors of key structural members
 	    - **nonstructural**: CSV files with quantities per built area and embodied carbon factors of key nonstructural members
 
@@ -82,13 +81,11 @@ Each regional repository contains the following folders and subfolders:
 		    - **EC_UNITS**: Units for the embodied carbon factor (e.g., kg of CO<sub>2</sub>e per cubic meter of component)
 		    - **MF**: Mass factor of component (in kg per quantity unit). This value is set to zero for components excluded from the total building mass calculation, where only structure and envelope are included)
 
-	 - **embodied_carbon_factors**: The subfolder contains embodied carbon factors for various life-cycle modules (e.g. A1-A3, A4-A5, C1-C4) of different building types, distinguishing between structural and nonstructural components, as well as summaries of Replacement Embodied Carbon for each building type and country, and the embodied-carbon exposure map of the region.
+	 - **embodied_carbon_factors**: The subfolder contains embodied carbon factors for various life-cycle modules (e.g., A1-A3, A4-A5, C1-C4) of different building types, distinguishing between structural and nonstructural components, as well as summaries of Replacement Embodied Carbon for each building type and country, and the embodied-carbon exposure map of the region.
 
 ## How is the embodied carbon of an individual component calculated?
 
-The methodology is described in some detail in the dedicated [folder](https://github.com/gem/global_embodied_carbon_model/tree/revised_structure_new/methodology).
-
-For further details on the methodology, refer to the Publications listed below.
+The methodology is described in some detail in the dedicated [folder](https://github.com/gem/global_embodied_carbon_model/tree/revised_structure_new/methodology). For further details, refer to the Publications listed below.
 
 ## Where can I find additional information on the defined building classes?
 
