@@ -26,7 +26,7 @@
 
 # ✨ Overview
 
-> The first versions of the GEM's embodied-carbon exposure and seismic risk maps for Europe are now available! 🥳 🚀
+> The first versions of the GEM's embodied-carbon exposure and seismic risk maps of Europe are now available! 🥳 🚀
 
 This repository hosts data on the embodied carbon associated with the seismic damage repair and replacement of the residential, commercial, and industrial building stock worldwide. Interactive web services are accessible through the EPOS Built Environmental Data service at https://embodiedcarbon.builtenvdata.eu.
 
@@ -67,7 +67,7 @@ Each regional repository contains the following folders and subfolders:
 
 	 - **components**, including:
 
-	    - **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
+	    - **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.csv) lists those specific countries
 	    - **structural**: CSV files with quantities per built area and embodied carbon factors of key structural members
 	    - **nonstructural**: CSV files with quantities per built area and embodied carbon factors of key nonstructural members
 
@@ -83,17 +83,17 @@ Each regional repository contains the following folders and subfolders:
 
 	 - **embodied_carbon_factors**: The subfolder contains embodied carbon factors for various life-cycle modules (e.g., A1-A3, A4-A5, C1-C4) of different building types, distinguishing between structural and nonstructural components, as well as summaries of Replacement Embodied Carbon for each building type and country, and the embodied-carbon exposure map of the region.
 
-## How is the embodied carbon of an individual component calculated?
+## How is the embodied carbon of individual components calculated?
 
 The methodology is described in some detail in the dedicated [folder](https://github.com/gem/global_embodied_carbon_model/tree/revised_structure_new/methodology). For further details, refer to the Publications listed below.
-
-## Where can I find the models at the highest available resolution?
-
-Please contact us at product@globalquakemodel.org.
 
 ## Where can I find additional information on the defined building classes?
 
 The building classes defined herein follow the GEM Taxonomy v3.2 convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings and the `Taxonomy_tables_v3.2.xlsx` available [here](https://github.com/gem/gem_taxonomy/tree/master).
+
+## Where can I find the models at the highest available resolution?
+
+Please contact us at product@globalquakemodel.org.
 
 
 # 📚 Publications
