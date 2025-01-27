@@ -1,4 +1,4 @@
-# 🌱 Global Seismic Embodied Carbon Model
+# 🌱 Global Embodied Carbon Model
 
 <div align='center'>
 
@@ -59,7 +59,7 @@ The following regions, countries and territories are covered in this repository.
 
 Each regional repository contains the following folders and subfolders:
 
- 1) **Average_Annual_Embodied_Carbon**: This folder includes data on embodied carbon resulting from repair and reconstruction activities due to earthquake damage. It contains summaries of Average Annual Embodied Carbon (AAEC) for all countries in the region, and the embodied-carbon seismic risk map of the region;
+ 1) **Seismic_Embodied_Carbon**: This folder includes data on embodied carbon resulting from repair and reconstruction activities due to earthquake damage. It contains summaries of Average Annual Embodied Carbon (AAEC) for all countries in the region, and the embodied-carbon seismic risk map of the region;
 
  2) **Replacement_Embodied_Carbon**: This folder includes data on embodied carbon associated with replacing existing buildings with new constructions following destructive events. It covers material production (modules A1- A3) and construction (modules A4-A5) of new structures, as well as end-of-life processes (modules C1-C4) of existing damaged buildings.
 
@@ -67,6 +67,8 @@ Each regional repository contains the following folders and subfolders:
 
 	 - **components**, including:
 
+			- **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
+			- **structural**: CSV files with quantities per built area and embodied carbon factors of key structural members
 	    - **structural**: CSV files with quantities per built area and embodied carbon factors of key structural members
 	    - **nonstructural**: CSV files with quantities per built area and embodied carbon factors of key nonstructural members
 
@@ -80,13 +82,15 @@ Each regional repository contains the following folders and subfolders:
 		    - **EC_UNITS**: Units for the embodied carbon factor (e.g., kg of CO<sub>2</sub>e per cubic meter of component)
 		    - **MF**: Mass factor of component (in kg per quantity unit). This value is set to zero for components excluded from the total building mass calculation, where only structure and envelope are included)
 
-		  - **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
-
 	 - **embodied_carbon_factors**: The subfolder contains embodied carbon factors for various life-cycle modules (e.g., A1-A3, A4-A5, C1-C4) of different building types, distinguishing between structural and nonstructural components, as well as summaries of Replacement Embodied Carbon for each building type and country, and the embodied-carbon exposure map of the region.
 
 ## How is the embodied carbon of an individual component calculated?
 
 The methodology is described in some detail in the dedicated [folder](https://github.com/gem/global_embodied_carbon_model/tree/revised_structure_new/methodology). For further details, refer to the Publications listed below.
+
+## Where can I find the models at the highest available resolution?
+
+Please contact us at product@globalquakemodel.org.
 
 ## Where can I find additional information on the defined building classes?
 
@@ -95,9 +99,22 @@ The building classes defined herein follow the GEM Taxonomy v3.2 convention. Ple
 
 # 📚 Publications
 
-Please cite the work as follows:
-
 Martina Caruso, Vitor Silva, Karim Aljawhari, Al Mouayed Bellah Nafeh, Carmine Galasso. Unveiling the Environmental Impact of Earthquakes in Europe, 08 November 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5283610/v1].
+
+If you use the data or resources provided in this repository, please acknowledge the GEM Foundation as follows:
+Global Earthquake Model (GEM) Foundation. Global Embodied Carbon Model. Available at: https://github.com/gem/global_embodied_carbon_model/tree/main.
+
+
+# 👨‍👩‍👧‍👦 Related datasets and resources
+
+Users interested in the global embodied carbon model might find the following GEM Foundation products useful:
+
+* [Global Exposure Model](https://www.globalquakemodel.org/product/global-exposure-model)
+* [Global Seismic Risk Map](https://www.globalquakemodel.org/products/global-seismic-risk-map)
+* [Global Seismic Hazard Map](https://www.globalquakemodel.org/product/global-seismic-hazard-map)
+* [Global Vulnerability Model](https://www.globalquakemodel.org/product/global-vulnerability-model)
+* [OpenQuake engine](https://www.globalquakemodel.org/product/openquake-engine)
+
 
 # License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -123,12 +140,3 @@ Any deviation from these terms incurs license infringement. For commercial use o
 
 This model represents the best information that is publicly accessible. While undertaking to provide practical and accurate information, the authors assume no liability for, nor express or imply any warranty with regard to the information contained herein. Users of information expressed herein assume all liability arising from such use.
 
-# 👨‍👩‍👧‍👦 Related datasets and resources
-
-Users interested in the global embodied carbon model might find the following GEM Foundation products useful:
-
-* [Global Exposure Model](https://www.globalquakemodel.org/product/global-exposure-model)
-* [Global Seismic Risk Map](https://www.globalquakemodel.org/products/global-seismic-risk-map)
-* [Global Seismic Hazard Map](https://www.globalquakemodel.org/product/global-seismic-hazard-map)
-* [Global Vulnerability Model](https://www.globalquakemodel.org/product/global-vulnerability-model)
-* [OpenQuake engine](https://www.globalquakemodel.org/product/openquake-engine)
