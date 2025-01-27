@@ -67,10 +67,8 @@ Each regional repository contains the following folders and subfolders:
 
 	 - **components**, including:
 
-			- **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
-
+	    - **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
 	    - **structural**: CSV files with quantities per built area and embodied carbon factors of key structural members
-	    - **prova**: CSV
 	    - **nonstructural**: CSV files with quantities per built area and embodied carbon factors of key nonstructural members
 
 		    Each CSV file for structural and nonstructural components contains the following columns:
