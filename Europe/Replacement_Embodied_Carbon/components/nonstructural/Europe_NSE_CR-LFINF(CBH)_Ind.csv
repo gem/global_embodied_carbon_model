@@ -1,0 +1,31 @@
+NO,ITEM,QUANTITY,QUANTITY_UNITS,EC,EC_UNITS,MF
+1,Cladding (gross wall area),0.018905769,m2,3.5,m2,12.8
+2,Cladding (windows and glazing area),8.59353e-05,m2,5.022,m2,54.0
+3,Doors (nonstructural wood),0.13875,unit,16.5375,unit,60.480000000000004
+4,Double-glazed windows with PVC frames,0.13875,m2,68.4,m2,30.0
+5,Ceramic tile floors,0.00222,m2,12.1,m2,0.0
+6,Raised access floors,0.0,m2,21.6,m2,0.0
+7,Roofing,0.085935312,m2,86.42505037190084,m2,529.1075599173554
+8,Gypsum partitions,0.02775,m2,7.28,m2,27.0
+9,Ceramic tile walls,0.000121798,m2,12.1,m2,0.0
+10,Metal ceilings (lay in tile),0.004296766,m2,20.108447222222225,m2,0.0
+11,Gypsum ceilings,0.004296766,m2,2.24,m2,0.0
+12,Metal ceilings (other),0.077341781,m2,20.108447222222225,m2,0.0
+13,Metal ceilings (other - high end),0.0,	m2,20.108447222222225,	m2,0.0
+14,Stairs,0.0,unit,1300.8,unit,12000.0
+15,Elevators,0.0,unit,56468.17854775994,unit,0.0
+16,Piping (cold domestic water piping  - 2 ½ inch diameter or smaller),0.001353312,m,2.7279607001029276,m,0.0
+17,Piping (cold domestic water piping – greater than 2 ½ diameter),0.0042291,m,9.547862450360247,m,0.0
+18,Piping (hot domestic water piping - 2 ½ inch diameter or smaller),0.002706624,m,2.7279607001029276,m,0.0
+19,Piping (hot domestic waster piping – greater than 2 ½ diameter),0.0084582,m,9.547862450360247,m,0.0
+20,Piping (sanitary waste piping),0.005582412,m,9.547862450360247,m,0.0
+21,Piping (acid waste piping),0.0,m,9.547862450360247,m,0.0
+22,HVAC,1.0,unit,35.12172413793103,unit,0.0
+23,Piping (steam & chilled water piping - 2 ½ inch diameter or smaller),0.0,m,2.7279607001029276,m,0.0
+24,Piping (steam & chilled water piping - greater than 2 ½ diameter),0.0,m,9.547862450360247,m,0.0
+25,Piping (heating water piping - 2 ½ inch diameter or smaller),0.0014097,m,2.7279607001029276,m,0.0
+26,Piping (heating water piping - greater than 2 ½ diameter,0.0014097,m,9.547862450360247,m,0.0
+27,Electrical system,1.0,unit,9.976030330062443,unit,0.0
+28,Fire system,1.0,unit,4.9858757062146895,unit,0.0
+29,External infills,0.105744653,m,388.2217317622721,m,1314.9497041420118
+30,Internal partitions,0.036884559,m,195.0705758709324,m,607.5798816568049
