@@ -59,7 +59,7 @@ The following regions, countries and territories are covered in this repository.
 
 Each regional repository contains the following folders and subfolders:
 
- 1) **Average_Annual_Embodied_Carbon**: This folder includes data on embodied carbon resulting from repair and reconstruction activities due to earthquake damage. It contains summaries of Average Annual Embodied Carbon (AAEC) for all countries in the region, and the embodied-carbon seismic risk map of the region
+ 1) **Average_Annual_Embodied_Carbon**: This folder includes data on embodied carbon resulting from repair and reconstruction activities due to earthquake damage. It contains summaries of Average Annual Embodied Carbon (AAEC) for all countries in the region, and the embodied-carbon seismic risk map of the region;
 
  2) **Replacement_Embodied_Carbon**: This folder includes data on embodied carbon associated with replacing existing buildings with new constructions following destructive events. It covers material production (modules A1- A3) and construction (modules A4-A5) of new structures, as well as end-of-life processes (modules C1-C4) of existing damaged buildings.
 
@@ -67,7 +67,6 @@ Each regional repository contains the following folders and subfolders:
 
 	 - **components**, including:
 
-			- **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
 	    - **structural**: CSV files with quantities per built area and embodied carbon factors of key structural members
 	    - **nonstructural**: CSV files with quantities per built area and embodied carbon factors of key nonstructural members
 
@@ -80,6 +79,8 @@ Each regional repository contains the following folders and subfolders:
 		    - **EC**: Embodied carbon factor (in kg of CO<sub>2</sub>e) per embodied carbon unit (below)
 		    - **EC_UNITS**: Units for the embodied carbon factor (e.g., kg of CO<sub>2</sub>e per cubic meter of component)
 		    - **MF**: Mass factor of component (in kg per quantity unit). This value is set to zero for components excluded from the total building mass calculation, where only structure and envelope are included)
+
+		  - **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.CSV) lists those specific countries
 
 	 - **embodied_carbon_factors**: The subfolder contains embodied carbon factors for various life-cycle modules (e.g., A1-A3, A4-A5, C1-C4) of different building types, distinguishing between structural and nonstructural components, as well as summaries of Replacement Embodied Carbon for each building type and country, and the embodied-carbon exposure map of the region.
 
@@ -96,7 +97,7 @@ The building classes defined herein follow the GEM Taxonomy v3.2 convention. Ple
 
 Please cite the work as follows:
 
-Martina Caruso, Vitor Silva, Karim Aljawhari, Al Mouayed Bellah Nafeh, Carmine Galasso. Unveiling the Environmental Impact of Earthquakes in Europe, 08 November 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5283610/v1]. DOI: https://doi.org/10.21203/rs.3.rs-5283610/v.
+Martina Caruso, Vitor Silva, Karim Aljawhari, Al Mouayed Bellah Nafeh, Carmine Galasso. Unveiling the Environmental Impact of Earthquakes in Europe, 08 November 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5283610/v1].
 
 # License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -108,7 +109,7 @@ This work is licensed under a
 * Non-commercial (you may not use the material for commercial purposes)
 * ShareAlike (derivatives created must be made available under the same license as the original)
 
-If your use case deviates from the requirements of the offered license, but still want to explore the use of the data, please contact us at license@globalquakemodel.org  
+If your use case deviates from the requirements of the offered license, but still want to explore the use of the data, please contact us at license@globalquakemodel.org.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
