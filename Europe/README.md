@@ -1,4 +1,4 @@
-# 🌱 Region Embodied Carbon Model
+# 🌱 European Embodied Carbon Model
 
 This repository includes the first continental-scale maps of replacement embodied carbon (REC) and average annual embodied carbon (AAEC) for the European building stock. The former map captures the total embodied carbon embedded in the existing building assets (residential, commercial, industrial), estimated at approximately 14 billion tons of CO<sub>2</sub>e, more than twice Europe’s total emissions in 2021. Germany, France, Italy, Turkey, the United Kingdom, and Spain together account for over 60% of the total replacement embodied carbon, with each country contributing between 1.1 and 1.8 billion tons of CO<sub>2</sub>e. This concentration is expected, given that these nations possess the largest number of buildings and built-up areas.
 
