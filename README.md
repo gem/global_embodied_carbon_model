@@ -59,11 +59,11 @@ The following regions, countries and territories are covered in this repository.
 
 Each regional repository contains the following folders and subfolders:
 
-🚧 <span style="color: #7cf9d6"><b>Replacement_Embodied_Carbon</b></span>: This folder includes plots, maps and data on embodied carbon associated with replacing existing buildings with new constructions following destructive events (not necessarily earthquakes). It covers material production (modules A1- A3) and construction (modules A4-A5) of new structures, as well as end-of-life processes of existing damaged buildings.
+- 🚧 <span style="color: #7cf9d6"><b>Replacement_Embodied_Carbon</b></span>: This folder includes plots, maps and data on embodied carbon associated with replacing existing buildings with new constructions following destructive events (not necessarily earthquakes). It covers material production (modules A1- A3) and construction (modules A4-A5) of new structures, as well as end-of-life processes of existing damaged buildings.
 
 	 The folder contains:
 
-	 🧱 <span style="color: #7fccb6"><b>components</b></span>, including:
+	 - 🧱 <span style="color: #7fccb6"><b>components</b></span>, including:
 
 	    - <span style="color: #7fccb6"><b>carbon_class_mapping</b></span>: A CSV file that maps the existing building types to the carbon building classes of new constructions, reflecting whether a built back better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_countries_bbb.csv) lists those specific countries
 	    - <span style="color: #7fccb6"><b>structural</b></span>: CSV files providing quantities per built area and embodied carbon factors of key structural members, categorised by building type and occupancy
@@ -80,11 +80,11 @@ Each regional repository contains the following folders and subfolders:
 		    - **MF**: Mass factor of component (kg per quantity unit). This is set to zero for components excluded from the total building mass calculation, where only structure and envelope are considered
 			- **WR**: Waste factor indicating the share of material wasted during construction
 
-	 ☁️ <span style="color: #7fccb6"><b>embodied_carbon_factors</b></span>: This subfolder contains embodied carbon factors for various life-cycle modules (e.g., A1-A3, A4-A5) across different building types and occupancies, distinguishing between structural and non-structural components. It also includes summaries of replacement embodied carbon (REC) by building type, occupancy and country, and the embodied-carbon exposure map of the region. The Excel file "Region_Embodied_Carbon_Factors" compiles all component-level embodied carbon factors and data sources (e.g., EPD databases, scientific literature)
+	 - ☁️ <span style="color: #7fccb6"><b>embodied_carbon_factors</b></span>: This subfolder contains embodied carbon factors for various life-cycle modules (e.g., A1-A3, A4-A5) across different building types and occupancies, distinguishing between structural and non-structural components. It also includes summaries of replacement embodied carbon (REC) by building type, occupancy and country, and the embodied-carbon exposure map of the region. The Excel file "Region_Embodied_Carbon_Factors" compiles all component-level embodied carbon factors and data sources (e.g., EPD databases, scientific literature)
 
-	  🏘️ <span style="color: #7fccb6"><b>exposure</b></span>: This subfolder provides aggregated REC values at the first subnational administrative level for each country in the region, including both structural and non-structural contributions and additional exposure attributes from GEM models (e.g., buildings, total replacement cost)
+	  - 🏘️ <span style="color: #7fccb6"><b>exposure</b></span>: This subfolder provides aggregated REC values at the first subnational administrative level for each country in the region, including both structural and non-structural contributions and additional exposure attributes from GEM models (e.g., buildings, total replacement cost)
 
- 🏚️ <span style="color: #7cf9d6"><b>Seismic_Embodied_Carbon</b></span>: This folder includes data on embodied carbon resulting from repair and reconstruction activities due to earthquake damage. It contains summaries of average annual embodied carbon (AAEC) for all countries in the region, and a regional embodied-carbon seismic risk map. The <span style="color: #7fccb6"><b>risk</b></span> subfolder contains the aggregated AAEC values at first subnational administrative level of each country in the region, broken down into structural and non-structural contributions.
+ - 🏚️ <span style="color: #7cf9d6"><b>Seismic_Embodied_Carbon</b></span>: This folder includes data on embodied carbon resulting from repair and reconstruction activities due to earthquake damage. It contains summaries of average annual embodied carbon (AAEC) for all countries in the region, and a regional embodied-carbon seismic risk map. The <span style="color: #7fccb6"><b>risk</b></span> subfolder contains the aggregated AAEC values at first subnational administrative level of each country in the region, broken down into structural and non-structural contributions.
 
 ## How is the embodied carbon of an individual building asset calculated?
 
