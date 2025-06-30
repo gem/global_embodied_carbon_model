@@ -59,7 +59,7 @@ The following regions, countries and territories are covered in this repository.
 
 Each regional repository contains the following folders and subfolders:
 
-- 🚧 <span style="color: #7cf9d6"><b>Replacement_Embodied_Carbon</b></span>: This folder includes plots, maps and data on embodied carbon associated with replacing existing buildings with new constructions following destructive events (not necessarily earthquakes). It covers material production (modules A1- A3) and construction (modules A4-A5) of new structures, as well as end-of-life processes of existing damaged buildings.
+- 🚧 <span style="color: #7cf9d6"><b>Replacement_Embodied_Carbon</b></span>: This folder includes plots, maps and data on embodied carbon associated with replacing existing buildings with new constructions following destructive events (not necessarily earthquakes). The replacement embodied carbon covers material production (modules A1- A3) and construction (modules A4-A5) of new structures, as well as end-of-life processes of existing damaged buildings.
 
 	 The folder contains:
 
@@ -82,13 +82,13 @@ Each regional repository contains the following folders and subfolders:
 
 	 - ☁️ <span style="color: #7fccb6"><b>embodied_carbon_factors</b></span>: This subfolder contains embodied carbon factors for various life-cycle modules (e.g., A1-A3, A4-A5) across different building types and occupancies, distinguishing between structural and non-structural components. It also includes summaries of replacement embodied carbon (REC) by building type, occupancy and country, and the embodied-carbon exposure map of the region. The Excel file "Region_Embodied_Carbon_Factors" compiles all component-level embodied carbon factors and data sources (e.g., EPD databases, scientific literature)
 
-	  - 🏘️ <span style="color: #7fccb6"><b>exposure</b></span>: This subfolder provides aggregated REC values at the first subnational administrative level for each country in the region, including both structural and non-structural contributions and additional exposure attributes from GEM models (e.g., buildings, total replacement cost)
+	 - 🏘️ <span style="color: #7fccb6"><b>exposure</b></span>: This subfolder provides aggregated REC values at the first subnational administrative level for each country in the region, including both structural and non-structural contributions and additional exposure attributes from GEM models (e.g., buildings, total replacement cost)
 
  - 🏚️ <span style="color: #7cf9d6"><b>Seismic_Embodied_Carbon</b></span>: This folder includes data on embodied carbon resulting from repair and reconstruction activities due to earthquake damage. It contains summaries of average annual embodied carbon (AAEC) for all countries in the region, and a regional embodied-carbon seismic risk map. The <span style="color: #7fccb6"><b>risk</b></span> subfolder contains the aggregated AAEC values at first subnational administrative level of each country in the region, broken down into structural and non-structural contributions.
 
 ## How is the embodied carbon of an individual building asset calculated?
 
-The methodology is described in some detail in the dedicated [folder](https://github.com/gem/global_embodied_carbon_model/tree/revised_structure_new/methodology). For further details, refer to the publications listed below.
+The methodology is described in some detail in the dedicated [folder](https://github.com/gem/global_embodied_carbon_model/tree/main/methodology). For further details, refer to the publications listed below.
 
 ## Where can I find additional information on the defined building classes?
 
@@ -103,7 +103,7 @@ Please contact us at product@globalquakemodel.org.
 Martina Caruso, Vitor Silva, Karim Aljawhari, Al Mouayed Bellah Nafeh, Carmine Galasso. Unveiling the Environmental Impact of Earthquakes in Europe, 08 November 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5283610/v1].
 
 If you use the data or resources provided in this repository, please acknowledge the GEM Foundation as follows:
-Global Earthquake Model (GEM) Foundation. Global Embodied Carbon Model. Available at: https://github.com/gem/global_embodied_carbon_model/tree/main.
+Global Earthquake Model (GEM) Foundation. Global Seismic Embodied Carbon Model. Available at: https://github.com/gem/global_embodied_carbon_model/tree/main.
 
 # 👨‍👩‍👧‍👦 Related datasets and resources
 
@@ -133,8 +133,7 @@ If your use case deviates from the requirements of the offered license, but stil
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-If your intended use falls outside the scope of this license, please contact us at license@globalquakemodel.org to explore possible arrangements.
-Note: Any use that deviates from these terms constitutes a license violation. For commercial use, a tailored license agreement must be established, please contact us at product@globalquakemodel.org.
+If your intended use falls outside the scope of this license, please contact us at license@globalquakemodel.org to explore possible arrangements. Note: For commercial use, a tailored license agreement must be established, please contact us at product@globalquakemodel.org.
 
 # ⚠️ Disclaimer
 
