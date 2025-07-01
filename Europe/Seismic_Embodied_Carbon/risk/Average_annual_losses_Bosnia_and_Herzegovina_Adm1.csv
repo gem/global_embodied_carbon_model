@@ -1,0 +1,198 @@
+ID_0,NAME_0,ID_1,NAME_1,OCCUPANCY,TAXONOMY,AAEC_TOTAL_TON,AAEC_STRUCTURAL_TON,AAEC_NONSTRUCTURAL_TON
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,CR/LDUAL+CDM+LFC:0.0/HBET:3-5/COM,0.2082,0.1364,0.0718
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,CR/LDUAL+CDM+LFC:0.0/HBET:6-/COM,0.0393,0.0248,0.0146
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,CR/LFINF+CDL+LFC:0.0/H:2/COM,1.3310,0.8785,0.4525
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,CR/LFINF+CDL+LFC:0.0/HBET:3-5/COM,0.9130,0.6084,0.3046
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,CR/LFINF+CDL+LFC:0.0/HBET:6-/COM,0.0465,0.0312,0.0153
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,CR/LFINF+CDM+LFC:0.0/H:2/COM,5.6978,3.7207,1.9772
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,CR/LFINF+CDM+LFC:0.0/HBET:3-5/COM,0.6872,0.4473,0.2399
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,CR/LFINF+CDN/HBET:3-5/COM,0.2676,0.1759,0.0917
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,MCF/LWAL+CDN/H:1/COM,0.3776,0.1219,0.2557
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,MCF/LWAL+CDN/H:2/COM,1.3323,0.7063,0.6260
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,MUR+ADO/LWAL+CDN/H:1/COM,0.8070,0.6874,0.1196
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,MUR+ADO/LWAL+CDN/H:2/COM,0.3905,0.3250,0.0655
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,MUR/LWAL+CDN/H:1/COM,2.7062,2.3920,0.3142
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,MUR/LWAL+CDN/H:2/COM,4.8253,4.1942,0.6310
+BIH,Bosnia_and_Herzegovina,1,Brcko,Com,MUR/LWAL+CDN/HBET:3-5/COM,0.2315,0.2025,0.0291
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,CR+PC/LFM+CDL/H:1/IND,2.9370,2.2753,0.6617
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,CR/LFINF+CDL/H:1/IND,2.4403,1.9602,0.4802
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,CR/LFINF+CDL/HBET:3-5/IND,2.2218,1.8547,0.3671
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,CR/LFM+CDL/H:2/IND,7.5948,5.9652,1.6296
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,CR/LFM+CDL/HBET:3-5/IND,1.8971,1.5161,0.3810
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,MCF/LWAL+CDL/H:1/IND,0.9763,0.3297,0.6466
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,MUR/LWAL+CDN/H:1/IND,6.5977,6.0849,0.5128
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,S+SL/LFM+CDL/H:1/IND,0.5868,0.4071,0.1797
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,S+SL/LFM+CDM/H:1/IND,0.1366,0.0777,0.0588
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,S/LFM+CDL/H:1/IND,0.8637,0.5998,0.2639
+BIH,Bosnia_and_Herzegovina,1,Brcko,Ind,S/LFM+CDM/H:1/IND,0.5283,0.2764,0.2519
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,CR/LDUAL+CDM+LFC:0.0/HBET:6-/RES,2.5656,1.2754,1.2903
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,CR/LFINF+CDL+LFC:0.0/H:2/RES,7.9012,3.7437,4.1574
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,CR/LFINF+CDL+LFC:0.0/HBET:3-5/RES,6.7820,3.3790,3.4030
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,CR/LFINF+CDL+LFC:0.0/HBET:6-/RES,29.4720,14.4899,14.9821
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,CR/LFINF+CDM+LFC:0.0/H:2/RES,135.1256,63.2485,71.8770
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,CR/LFINF+CDM+LFC:0.0/HBET:3-5/RES,82.3455,40.7831,41.5624
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,CR/LFINF+CDM+LFC:0.0/HBET:6-/RES,126.4532,67.6990,58.7542
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,CR/LFINF+CDN/HBET:3-5/RES,1.2788,0.6419,0.6369
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,MCF/LWAL+CDN/H:1/RES,18.2473,4.4542,13.7931
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,MCF/LWAL+CDN/H:2/RES,8.9013,3.7237,5.1776
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,MUR+ADO/LWAL+CDN/H:1/RES,12.8326,10.5935,2.2391
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,MUR+ADO/LWAL+CDN/H:2/RES,10.4732,8.5370,1.9362
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,MUR/LWAL+CDN/H:1/RES,65.4999,57.9826,7.5173
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,MUR/LWAL+CDN/H:2/RES,88.7284,74.8332,13.8952
+BIH,Bosnia_and_Herzegovina,1,Brcko,Res,MUR/LWAL+CDN/HBET:3-5/RES,94.6714,80.8445,13.8269
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LDUAL+CDM+LFC:0.0/HBET:3-5/COM,4.3680,2.8131,1.5549
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LDUAL+CDM+LFC:0.0/HBET:6-/COM,0.6576,0.4220,0.2356
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LDUAL+CDM+LFC:10.0/HBET:3-5/COM,0.4084,0.2664,0.1421
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LDUAL+CDM+LFC:10.0/HBET:6-/COM,0.0593,0.0348,0.0245
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LDUAL+CDM+LFC:2.5/HBET:3-5/COM,3.5147,2.2327,1.2820
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LDUAL+CDM+LFC:2.5/HBET:6-/COM,0.5211,0.3281,0.1930
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LDUAL+CDM+LFC:5.0/HBET:3-5/COM,5.3804,3.4201,1.9603
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LDUAL+CDM+LFC:5.0/HBET:6-/COM,0.9292,0.5978,0.3313
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:0.0/H:2/COM,33.9734,22.8559,11.1174
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:0.0/HBET:3-5/COM,25.8531,17.0619,8.7911
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:0.0/HBET:6-/COM,1.3388,0.8844,0.4544
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:15.0/H:2/COM,8.9595,5.9441,3.0154
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:15.0/HBET:3-5/COM,5.6880,3.7303,1.9577
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:15.0/HBET:6-/COM,0.5183,0.3380,0.1803
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:3.75/H:2/COM,15.2362,9.9271,5.3091
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:3.75/HBET:3-5/COM,13.0634,8.5436,4.5198
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:3.75/HBET:6-/COM,0.7270,0.4755,0.2515
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:7.5/H:2/COM,16.1940,10.5572,5.6368
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:7.5/HBET:3-5/COM,13.1093,8.4824,4.6269
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDL+LFC:7.5/HBET:6-/COM,0.8260,0.5411,0.2849
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDM+LFC:0.0/H:2/COM,108.4993,71.7058,36.7934
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDM+LFC:0.0/HBET:3-5/COM,16.3157,10.6039,5.7118
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDM+LFC:10.0/H:2/COM,5.7693,3.7546,2.0147
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDM+LFC:10.0/HBET:3-5/COM,1.7183,1.1075,0.6109
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDM+LFC:2.5/H:2/COM,72.1885,47.5054,24.6830
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDM+LFC:2.5/HBET:3-5/COM,13.1071,8.5110,4.5961
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDM+LFC:5.0/H:2/COM,113.1416,72.6023,40.5393
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDM+LFC:5.0/HBET:3-5/COM,17.8766,11.4505,6.4261
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,CR/LFINF+CDN/HBET:3-5/COM,13.1810,8.6777,4.5033
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,MCF/LWAL+CDL/H:1/COM,6.2962,2.0741,4.2221
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,MCF/LWAL+CDL/H:2/COM,18.3336,9.9790,8.3546
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,MCF/LWAL+CDN/H:1/COM,32.3480,10.5851,21.7629
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,MCF/LWAL+CDN/H:2/COM,90.7315,48.1260,42.6055
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,MUR+ADO/LWAL+CDN/H:1/COM,49.9643,42.3571,7.6072
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,MUR+ADO/LWAL+CDN/H:2/COM,23.7327,19.8420,3.8907
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,MUR/LWAL+CDN/H:1/COM,194.3143,169.8738,24.4406
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,MUR/LWAL+CDN/H:2/COM,331.6864,288.1255,43.5609
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Com,MUR/LWAL+CDN/HBET:3-5/COM,23.0096,20.0448,2.9648
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,CR+PC/LFM+CDL/H:1/IND,82.0320,64.6014,17.4306
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,CR/LFINF+CDL/H:1/IND,71.4805,57.2196,14.2609
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,CR/LFINF+CDL/HBET:3-5/IND,50.6641,41.9371,8.7270
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,CR/LFM+CDL/H:2/IND,170.4795,132.7573,37.7222
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,CR/LFM+CDL/HBET:3-5/IND,43.4012,33.5546,9.8466
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,MCF/LWAL+CDL/H:1/IND,30.9691,13.5637,17.4055
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,MUR/LWAL+CDN/H:1/IND,166.2436,152.7875,13.4561
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,S+SL/LFM+CDL/H:1/IND,17.0274,12.2182,4.8092
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,S+SL/LFM+CDM/H:1/IND,4.0685,2.2645,1.8040
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,S/LFM+CDL/H:1/IND,24.0869,17.0065,7.0804
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Ind,S/LFM+CDM/H:1/IND,15.1429,8.4523,6.6906
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LDUAL+CDM+LFC:0.0/HBET:6-/RES,10.7251,5.6312,5.0939
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LDUAL+CDM+LFC:2.5/HBET:6-/RES,8.3706,4.2671,4.1035
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:0.0/H:2/RES,206.0850,99.0111,107.0739
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:0.0/HBET:3-5/RES,448.3779,213.4570,234.9210
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:0.0/HBET:6-/RES,182.9843,87.1020,95.8823
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:15.0/H:2/RES,78.2655,38.2178,40.0477
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:15.0/HBET:3-5/RES,200.1429,95.6246,104.5183
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:3.75/H:2/RES,81.2173,39.3931,41.8242
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:3.75/HBET:3-5/RES,212.4273,103.1210,109.3062
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:3.75/HBET:6-/RES,81.6092,37.6892,43.9200
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:7.5/H:2/RES,88.3387,42.5369,45.8018
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDL+LFC:7.5/HBET:3-5/RES,221.5710,107.4548,114.1162
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:0.0/H:2/RES,402.6157,192.3197,210.2960
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:0.0/HBET:3-5/RES,274.0053,134.0638,139.9415
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:0.0/HBET:6-/RES,409.2339,197.7525,211.4814
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:10.0/H:2/RES,1.0245,0.5049,0.5196
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:10.0/HBET:3-5/RES,1.3610,0.6570,0.7040
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:2.5/H:2/RES,350.9155,169.9529,180.9626
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:2.5/HBET:3-5/RES,213.1662,101.5253,111.6409
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:2.5/HBET:6-/RES,340.6412,158.6389,182.0022
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:5.0/H:2/RES,20.0407,9.7477,10.2931
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDM+LFC:5.0/HBET:3-5/RES,22.2440,10.7842,11.4598
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,CR/LFINF+CDN/HBET:3-5/RES,16.0822,7.8548,8.2274
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,MCF/LWAL+CDL/H:1/RES,121.5276,34.9447,86.5829
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,MCF/LWAL+CDL/H:2/RES,152.2344,64.5738,87.6605
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,MCF/LWAL+CDN/H:1/RES,261.9323,73.4204,188.5120
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,MCF/LWAL+CDN/H:2/RES,256.7906,105.2215,151.5691
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,MUR+ADO/LWAL+CDN/H:1/RES,397.5557,334.2351,63.3206
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,MUR+ADO/LWAL+CDN/H:2/RES,93.5738,77.0265,16.5473
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,MUR/LWAL+CDN/H:1/RES,2084.8586,1812.0346,272.8240
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,MUR/LWAL+CDN/H:2/RES,3550.6875,3030.7637,519.9238
+BIH,Bosnia_and_Herzegovina,2,Federacija Bosna i Hercegovina,Res,MUR/LWAL+CDN/HBET:3-5/RES,1834.2107,1569.3633,264.8474
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LDUAL+CDM+LFC:0.0/HBET:3-5/COM,1.3893,0.9096,0.4797
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LDUAL+CDM+LFC:0.0/HBET:6-/COM,0.1904,0.1257,0.0647
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LDUAL+CDM+LFC:2.5/HBET:3-5/COM,3.0484,1.9677,1.0806
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LDUAL+CDM+LFC:2.5/HBET:6-/COM,0.4729,0.3064,0.1664
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LDUAL+CDM+LFC:5.0/HBET:3-5/COM,1.8705,1.1837,0.6868
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LDUAL+CDM+LFC:5.0/HBET:6-/COM,0.4000,0.2571,0.1429
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:0.0/H:2/COM,23.0189,15.4671,7.5517
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:0.0/HBET:3-5/COM,17.0142,11.4138,5.6003
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:0.0/HBET:6-/COM,0.9338,0.6200,0.3138
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:15.0/H:2/COM,0.7794,0.5360,0.2434
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:15.0/HBET:3-5/COM,0.3159,0.2064,0.1095
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:15.0/HBET:6-/COM,0.0091,0.0059,0.0032
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:3.75/H:2/COM,8.4917,5.6354,2.8563
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:3.75/HBET:3-5/COM,7.6753,5.0241,2.6512
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:3.75/HBET:6-/COM,0.3367,0.2190,0.1176
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:7.5/H:2/COM,6.3667,4.2604,2.1063
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:7.5/HBET:3-5/COM,4.8847,3.2488,1.6359
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDL+LFC:7.5/HBET:6-/COM,0.2397,0.1561,0.0836
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDM+LFC:0.0/H:2/COM,39.4274,26.0578,13.3696
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDM+LFC:0.0/HBET:3-5/COM,5.2752,3.4156,1.8596
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDM+LFC:2.5/H:2/COM,77.3265,50.8668,26.4597
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDM+LFC:2.5/HBET:3-5/COM,11.3458,7.3800,3.9658
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDM+LFC:5.0/H:2/COM,48.1859,30.9753,17.2105
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDM+LFC:5.0/HBET:3-5/COM,8.4313,5.4166,3.0147
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,CR/LFINF+CDN/HBET:3-5/COM,7.0573,4.6974,2.3599
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,MCF/LWAL+CDL/H:1/COM,2.3609,0.7996,1.5614
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,MCF/LWAL+CDL/H:2/COM,7.8539,4.2918,3.5621
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,MCF/LWAL+CDN/H:1/COM,14.9006,4.8955,10.0051
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,MCF/LWAL+CDN/H:2/COM,45.7683,24.1825,21.5858
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,MUR+ADO/LWAL+CDN/H:1/COM,25.7503,21.9101,3.8402
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,MUR+ADO/LWAL+CDN/H:2/COM,14.4957,12.1563,2.3394
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,MUR/LWAL+CDN/H:1/COM,101.8384,89.4744,12.3640
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,MUR/LWAL+CDN/H:2/COM,172.2359,149.9538,22.2820
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Com,MUR/LWAL+CDN/HBET:3-5/COM,12.1563,10.6241,1.5322
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,CR+PC/LFM+CDL/H:1/IND,38.4774,30.4218,8.0556
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,CR/LFINF+CDL/H:1/IND,32.1470,26.0302,6.1168
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,CR/LFINF+CDL/HBET:3-5/IND,23.7721,19.6774,4.0947
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,CR/LFM+CDL/H:2/IND,79.8703,62.2887,17.5816
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,CR/LFM+CDL/HBET:3-5/IND,20.2213,15.6925,4.5288
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,MCF/LWAL+CDL/H:1/IND,13.8776,6.0201,7.8575
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,MUR/LWAL+CDN/H:1/IND,83.1454,76.4979,6.6475
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,S+SL/LFM+CDL/H:1/IND,8.0773,5.7725,2.3047
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,S+SL/LFM+CDM/H:1/IND,1.9934,1.0982,0.8952
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,S/LFM+CDL/H:1/IND,11.3867,8.0553,3.3314
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Ind,S/LFM+CDM/H:1/IND,7.0745,3.9306,3.1439
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LDUAL+CDM+LFC:2.5/HBET:6-/RES,0.3249,0.1570,0.1679
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LDUAL+CDM+LFC:5.0/HBET:6-/RES,3.9659,1.9033,2.0626
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:0.0/H:2/RES,283.0393,137.2938,145.7455
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:0.0/HBET:3-5/RES,622.3629,296.7465,325.6164
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:0.0/HBET:6-/RES,10.1830,5.0386,5.1444
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:15.0/H:2/RES,0.0337,0.0165,0.0171
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:15.0/HBET:3-5/RES,0.1279,0.0574,0.0704
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:3.75/H:2/RES,135.1809,65.4388,69.7421
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:3.75/HBET:3-5/RES,266.7662,128.8359,137.9303
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:3.75/HBET:6-/RES,49.2413,23.2188,26.0225
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:7.5/H:2/RES,55.1106,26.8557,28.2549
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDL+LFC:7.5/HBET:3-5/RES,122.2958,58.2528,64.0430
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDM+LFC:0.0/H:2/RES,13.3683,6.4007,6.9675
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDM+LFC:0.0/HBET:3-5/RES,12.7148,6.0669,6.6478
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDM+LFC:2.5/H:2/RES,39.5067,19.2008,20.3059
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDM+LFC:2.5/HBET:3-5/RES,29.4840,14.1188,15.3652
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDM+LFC:2.5/HBET:6-/RES,25.8189,12.2987,13.5202
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDM+LFC:5.0/H:2/RES,100.4858,47.4204,53.0654
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDM+LFC:5.0/HBET:3-5/RES,64.3998,30.4667,33.9331
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDM+LFC:5.0/HBET:6-/RES,86.7134,41.0935,45.6199
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,CR/LFINF+CDN/HBET:3-5/RES,3.6152,1.7969,1.8184
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,MCF/LWAL+CDL/H:1/RES,62.4397,17.3523,45.0874
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,MCF/LWAL+CDL/H:2/RES,63.8226,26.7245,37.0981
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,MCF/LWAL+CDN/H:1/RES,143.1720,39.0365,104.1355
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,MCF/LWAL+CDN/H:2/RES,174.3712,70.3918,103.9793
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,MUR+ADO/LWAL+CDN/H:1/RES,522.8789,439.4241,83.4548
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,MUR+ADO/LWAL+CDN/H:2/RES,33.1643,27.3277,5.8367
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,MUR/LWAL+CDN/H:1/RES,1454.5266,1267.4973,187.0293
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,MUR/LWAL+CDN/H:2/RES,2478.9223,2118.3565,360.5658
+BIH,Bosnia_and_Herzegovina,3,Repuplika Srpska,Res,MUR/LWAL+CDN/HBET:3-5/RES,1363.1401,1167.7838,195.3562
