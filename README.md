@@ -28,7 +28,7 @@
 
 > The first versions of the GEM's embodied-carbon exposure and seismic risk maps of Europe are now available! 🥳 🚀
 
-This repository hosts data on the embodied carbon associated with the seismic damage repair and replacement of the residential, commercial, and industrial building stock worldwide. Interactive web services are accessible through the EPOS Built Environmental Data service at https://embodiedcarbon.builtenvdata.eu.
+This repository hosts data on the embodied carbon associated with the seismic damage repair and replacement of the residential, commercial, and industrial building stock worldwide. Interactive web services are accessible through the [🌐 EPOS Built Environmental Data service](https://embodiedcarbon.builtenvdata.eu).
 
 # 🌍 Region, country and territory list
 
@@ -59,33 +59,36 @@ The following regions, countries and territories are covered in this repository.
 
 Each regional repository contains the following folders and subfolders:
 
- 1) **Seismic_Embodied_Carbon**: This folder includes data on embodied carbon resulting from repair and reconstruction activities due to earthquake damage. It contains summaries of Average Annual Embodied Carbon (AAEC) for all countries in the region, and the embodied-carbon seismic risk map of the region;
-
- 2) **Replacement_Embodied_Carbon**: This folder includes data on embodied carbon associated with replacing existing buildings with new constructions following destructive events. It covers material production (modules A1- A3) and construction (modules A4-A5) of new structures, as well as end-of-life processes (modules C1-C4) of existing damaged buildings.
+- 🚧 <span style="color: #7cf9d6"><b>Replacement_Embodied_Carbon</b></span>: This folder includes plots, maps and data on embodied carbon associated with replacing existing buildings with new constructions following destructive events (not necessarily earthquakes). The replacement embodied carbon covers material production (modules A1- A3) and construction (modules A4-A5) of new structures, as well as end-of-life processes of existing damaged buildings.
 
 	 The folder contains:
 
-	 - **components**, including:
+	 - 🧱 <span style="color: #7fccb6"><b>components</b></span>, including:
 
-	    - **carbon_class_mapping**: A CSV file that maps the existing building types with carbon building classes of new constructions, reflecting whether a Built Back Better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_Countries_BBB.csv) lists those specific countries
-	    - **structural**: CSV files with quantities per built area and embodied carbon factors of key structural members
-	    - **nonstructural**: CSV files with quantities per built area and embodied carbon factors of key nonstructural members
+	    - <span style="color: #7fccb6"><b>carbon_class_mapping</b></span>: A CSV file that maps the existing building types to the carbon building classes of new constructions, reflecting whether a built back better (BBB) approach is followed. If BBB is only partially adopted in some countries of the region, an additional CSV file (Region_countries_bbb.csv) lists those specific countries
+	    - <span style="color: #7fccb6"><b>structural</b></span>: CSV files providing quantities per built area and embodied carbon factors of key structural members, categorised by building type and occupancy
+	    - <span style="color: #7fccb6"><b>non-structural</b></span>: CSV files providing quantities per built area and embodied carbon factors of key non-structural members, categorised by building type and occupancy
 
-		    Each CSV file for structural and nonstructural components contains the following columns:
+		    Each CSV file for structural and non-structural components contains the following columns:
 
 		    - **NO**: Sequential number of the component
-		    - **ITEM**: Type of structural or nonstructural component
+		    - **ITEM**: Type of structural or non-structural component
 		    - **QUANTITY**: Quantity of component per built area (in square meters)
-		    - **QUANTITY_UNITS**: Units for the quantity (e.g., cubic meters per square meter)
-		    - **EC**: Embodied carbon factor (in kg of CO<sub>2</sub>e) per embodied carbon unit (below)
+		    - **QUANTITY_UNITS**: Units for the quantity (e.g., cubic meters per square meter of built area)
+		    - **EC**: Embodied carbon factor (in kg of CO<sub>2</sub>e) per embodied carbon unit (see EC_UNITS)
 		    - **EC_UNITS**: Units for the embodied carbon factor (e.g., kg of CO<sub>2</sub>e per cubic meter of component)
-		    - **MF**: Mass factor of component (in kg per quantity unit). This value is set to zero for components excluded from the total building mass calculation, where only structure and envelope are included)
+		    - **MF**: Mass factor of component (kg per quantity unit). This is set to zero for components excluded from the total building mass calculation, where only structure and envelope are considered
+			- **WR**: Waste factor indicating the share of material wasted during construction
 
-	 - **embodied_carbon_factors**: The subfolder contains embodied carbon factors for various life-cycle modules (e.g., A1-A3, A4-A5, C1-C4) of different building types, distinguishing between structural and nonstructural components, as well as summaries of Replacement Embodied Carbon for each building type and country, and the embodied-carbon exposure map of the region.
+	 - ☁️ <span style="color: #7fccb6"><b>embodied_carbon_factors</b></span>: This subfolder contains embodied carbon factors for various life-cycle modules (e.g., A1-A3, A4-A5) across different building types and occupancies, distinguishing between structural and non-structural components. It also includes summaries of replacement embodied carbon (REC) by building type, occupancy and country, and the embodied-carbon exposure map of the region. The Excel file "Region_Embodied_Carbon_Factors" compiles all component-level embodied carbon factors and data sources (e.g., EPD databases, scientific literature)
 
-## How is the embodied carbon of individual components calculated?
+	 - 🏘️ <span style="color: #7fccb6"><b>exposure</b></span>: This subfolder provides aggregated REC values at the first subnational administrative level for each country in the region, including both structural and non-structural contributions and additional exposure attributes from GEM models (e.g., buildings, total replacement cost)
 
-The methodology is described in some detail in the dedicated [folder](https://github.com/gem/global_embodied_carbon_model/tree/revised_structure_new/methodology). For further details, refer to the Publications listed below.
+ - 🏚️ <span style="color: #7cf9d6"><b>Seismic_Embodied_Carbon</b></span>: This folder includes data on embodied carbon resulting from repair and reconstruction activities due to earthquake damage. It contains summaries of average annual embodied carbon (AAEC) for all countries in the region, and a regional embodied-carbon seismic risk map. The <span style="color: #7fccb6"><b>risk</b></span> subfolder contains the aggregated AAEC values at first subnational administrative level of each country in the region, broken down into structural and non-structural contributions.
+
+## How is the embodied carbon of an individual building asset calculated?
+
+The methodology is described in some detail in the dedicated [folder](https://github.com/gem/global_embodied_carbon_model/tree/main/methodology). For further details, refer to the publications listed below.
 
 ## Where can I find additional information on the defined building classes?
 
@@ -95,14 +98,12 @@ The building classes defined herein follow the GEM Taxonomy v3.2 convention. Ple
 
 Please contact us at product@globalquakemodel.org.
 
-
 # 📚 Publications
 
 Martina Caruso, Vitor Silva, Karim Aljawhari, Al Mouayed Bellah Nafeh, Carmine Galasso. Unveiling the Environmental Impact of Earthquakes in Europe, 08 November 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5283610/v1].
 
 If you use the data or resources provided in this repository, please acknowledge the GEM Foundation as follows:
-Global Earthquake Model (GEM) Foundation. Global Embodied Carbon Model. Available at: https://github.com/gem/global_embodied_carbon_model/tree/main.
-
+Global Earthquake Model (GEM) Foundation. Global Seismic Embodied Carbon Model. Available at: https://github.com/gem/global_embodied_carbon_model/tree/main.
 
 # 👨‍👩‍👧‍👦 Related datasets and resources
 
@@ -114,8 +115,7 @@ Users interested in the global embodied carbon model might find the following GE
 * [Global Vulnerability Model](https://www.globalquakemodel.org/product/global-vulnerability-model)
 * [OpenQuake engine](https://www.globalquakemodel.org/product/openquake-engine)
 
-
-# License
+# 🛡 License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
@@ -133,9 +133,8 @@ If your use case deviates from the requirements of the offered license, but stil
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-Any deviation from these terms incurs license infringement. For commercial use of the data contained within this work, a specific license agreement must be made tailored to your use case, in such instance please contact GEM at product@globalquakemodel.org.
+If your intended use falls outside the scope of this license, please contact us at license@globalquakemodel.org to explore possible arrangements. Note: For commercial use, a tailored license agreement must be established, please contact us at product@globalquakemodel.org.
 
-# Disclaimer
+# ⚠️ Disclaimer
 
-This model represents the best information that is publicly accessible. While undertaking to provide practical and accurate information, the authors assume no liability for, nor express or imply any warranty with regard to the information contained herein. Users of information expressed herein assume all liability arising from such use.
-
+This model represents the best publicly available information. While efforts have been made to ensure accuracy and usability, the authors assume no liability and offer no warranty for the information provided herein. All responsibility for use of the data rests with the user.

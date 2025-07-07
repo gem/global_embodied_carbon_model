@@ -1,0 +1,714 @@
+ID_0,NAME_0,ID_1,NAME_1,OCCUPANCY,TAXONOMY,AAEC_TOTAL_TON,AAEC_STRUCTURAL_TON,AAEC_NONSTRUCTURAL_TON
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDH+LFC:0.0/H:1/COM,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDH+LFC:0.0/H:2/COM,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDH+LFC:0.0/HBET:3-5/COM,0.0007,0.0007,0.0000
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDH+LFC:0.0/HBET:6-/COM,0.0007,0.0005,0.0002
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDM+LFC:4.0/H:1/COM,0.0002,0.0000,0.0002
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDM+LFC:4.0/H:2/COM,0.0009,0.0001,0.0009
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDM+LFC:4.0/HBET:3-5/COM,0.0037,0.0025,0.0012
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDM+LFC:4.0/HBET:6-/COM,0.0082,0.0064,0.0018
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDN/H:1/COM,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDN/H:2/COM,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDN/HBET:3-5/COM,0.0041,0.0030,0.0011
+ISL,Iceland,1,Eastern Region,Com,CR+PC/LWAL+CDN/HBET:6-/COM,0.0005,0.0003,0.0001
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDH+LFC:0.0/H:1/COM,0.0001,0.0000,0.0001
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDH+LFC:0.0/H:2/COM,0.0008,0.0000,0.0008
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDH+LFC:0.0/HBET:3-5/COM,0.0036,0.0013,0.0023
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDH+LFC:0.0/HBET:6-/COM,0.0079,0.0015,0.0063
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDM+LFC:4.0/H:1/COM,0.0004,0.0000,0.0004
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDM+LFC:4.0/H:2/COM,0.0001,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDM+LFC:4.0/HBET:3-5/COM,0.0168,0.0054,0.0114
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDM+LFC:4.0/HBET:6-/COM,0.0022,0.0015,0.0007
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDN/H:1/COM,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDN/H:2/COM,0.0001,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,CR/LWAL+CDN/HBET:3-5/COM,0.0063,0.0052,0.0011
+ISL,Iceland,1,Eastern Region,Com,MUR/LWAL+CDN/H:1/COM,0.0001,0.0001,0.0000
+ISL,Iceland,1,Eastern Region,Com,S/LFBR+CDH/H:1/COM,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,S/LFBR+CDH/H:2/COM,0.0001,0.0001,0.0000
+ISL,Iceland,1,Eastern Region,Com,S/LFBR+CDH/HBET:3-5/COM,0.0002,0.0000,0.0002
+ISL,Iceland,1,Eastern Region,Com,S/LFM+CDH/H:1/COM,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,S/LFM+CDH/H:2/COM,0.0001,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,S/LFM+CDH/HBET:3-5/COM,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,W/LWAL+CDH/H:1/COM,0.0002,0.0000,0.0001
+ISL,Iceland,1,Eastern Region,Com,W/LWAL+CDH/H:2/COM,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Com,W/LWAL+CDM/H:1/COM,0.0009,0.0004,0.0005
+ISL,Iceland,1,Eastern Region,Com,W/LWAL+CDM/H:2/COM,0.0004,0.0000,0.0003
+ISL,Iceland,1,Eastern Region,Com,W/LWAL+CDN/H:1/COM,0.0002,0.0001,0.0001
+ISL,Iceland,1,Eastern Region,Com,W/LWAL+CDN/H:2/COM,0.0003,0.0000,0.0003
+ISL,Iceland,1,Eastern Region,Ind,CR+PC/LFM+CDL/H:1/IND,0.0152,0.0124,0.0028
+ISL,Iceland,1,Eastern Region,Ind,CR/LFM+CDM/H:1/IND,0.0017,0.0002,0.0016
+ISL,Iceland,1,Eastern Region,Ind,CR/LWAL+CDH/H:1/IND,0.0002,0.0000,0.0002
+ISL,Iceland,1,Eastern Region,Ind,CR/LWAL+CDM/HBET:3-5/IND,0.0021,0.0018,0.0003
+ISL,Iceland,1,Eastern Region,Ind,MR/LWAL+CDL/H:1/IND,0.0004,0.0003,0.0001
+ISL,Iceland,1,Eastern Region,Ind,MUR/LWAL+CDN/H:1/IND,0.0105,0.0100,0.0005
+ISL,Iceland,1,Eastern Region,Ind,S/LFBR+CDH/H:1/IND,0.0017,0.0008,0.0009
+ISL,Iceland,1,Eastern Region,Ind,S/LFM+CDH/H:1/IND,0.0026,0.0014,0.0012
+ISL,Iceland,1,Eastern Region,Ind,S/LFM+CDH/HBET:3-5/IND,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Ind,W/LWAL+CDM/H:1/IND,0.0051,0.0028,0.0023
+ISL,Iceland,1,Eastern Region,Res,CR/LDUAL+CDH+LFC:0.0/H:2/RES,0.0018,0.0007,0.0011
+ISL,Iceland,1,Eastern Region,Res,CR/LDUAL+CDH+LFC:0.0/HBET:3-5/RES,0.0119,0.0064,0.0055
+ISL,Iceland,1,Eastern Region,Res,CR/LDUAL+CDH+LFC:5.0/H:2/RES,0.0002,0.0000,0.0002
+ISL,Iceland,1,Eastern Region,Res,CR/LDUAL+CDH+LFC:5.0/HBET:3-5/RES,0.0009,0.0004,0.0005
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDH+LFC:0.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDH+LFC:0.0/H:2/RES,0.0049,0.0013,0.0037
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDH+LFC:5.0/H:2/RES,0.0004,0.0001,0.0004
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDL+LFC:7.0/H:1/RES,0.0077,0.0024,0.0053
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDL+LFC:7.0/H:2/RES,0.0127,0.0060,0.0066
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDL+LFC:7.0/HBET:3-5/RES,0.2264,0.1079,0.1185
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:0.0/H:1/RES,0.0056,0.0001,0.0055
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:0.0/H:2/RES,0.0064,0.0008,0.0055
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:0.0/HBET:3-5/RES,0.0062,0.0028,0.0033
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:3.0/H:1/RES,0.0081,0.0001,0.0080
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:3.0/H:2/RES,0.0003,0.0001,0.0002
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:3.0/HBET:3-5/RES,0.0137,0.0032,0.0105
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:4.0/H:1/RES,0.0079,0.0002,0.0077
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:4.0/H:2/RES,0.0300,0.0074,0.0226
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:4.0/HBET:3-5/RES,0.0091,0.0024,0.0067
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:7.0/H:1/RES,0.0005,0.0001,0.0004
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:7.0/H:2/RES,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:7.0/HBET:3-5/RES,0.0002,0.0001,0.0001
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:8.0/H:1/RES,0.0001,0.0000,0.0001
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:8.0/H:2/RES,0.0002,0.0001,0.0001
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDM+LFC:8.0/HBET:3-5/RES,0.0001,0.0000,0.0001
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDN/H:1/RES,0.0048,0.0010,0.0039
+ISL,Iceland,1,Eastern Region,Res,CR/LWAL+CDN/H:2/RES,0.0248,0.0128,0.0120
+ISL,Iceland,1,Eastern Region,Res,MUR/LWAL+CDN/H:1/RES,0.0204,0.0183,0.0021
+ISL,Iceland,1,Eastern Region,Res,MUR/LWAL+CDN/H:2/RES,0.2750,0.2330,0.0420
+ISL,Iceland,1,Eastern Region,Res,MUR/LWAL+CDN/HBET:3-5/RES,0.0098,0.0088,0.0010
+ISL,Iceland,1,Eastern Region,Res,W/LWAL+CDH/H:1/RES,0.0002,0.0001,0.0002
+ISL,Iceland,1,Eastern Region,Res,W/LWAL+CDH/H:2/RES,0.0037,0.0010,0.0027
+ISL,Iceland,1,Eastern Region,Res,W/LWAL+CDH/HBET:3-5/RES,0.0020,0.0005,0.0016
+ISL,Iceland,1,Eastern Region,Res,W/LWAL+CDL/H:1/RES,0.0656,0.0213,0.0443
+ISL,Iceland,1,Eastern Region,Res,W/LWAL+CDL/H:2/RES,0.0009,0.0003,0.0006
+ISL,Iceland,1,Eastern Region,Res,W/LWAL+CDM/H:1/RES,0.0431,0.0117,0.0314
+ISL,Iceland,1,Eastern Region,Res,W/LWAL+CDM/HBET:3-5/RES,0.0000,0.0000,0.0000
+ISL,Iceland,1,Eastern Region,Res,W/LWAL+CDN/H:1/RES,0.0978,0.0296,0.0682
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDH+LFC:20.0/H:1/COM,0.0006,0.0000,0.0006
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDH+LFC:20.0/H:2/COM,0.0024,0.0003,0.0021
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDH+LFC:20.0/HBET:3-5/COM,0.0433,0.0205,0.0228
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDH+LFC:20.0/HBET:6-/COM,0.0187,0.0116,0.0071
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/H:1/COM,0.0042,0.0001,0.0041
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/H:2/COM,0.0056,0.0018,0.0038
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/HBET:3-5/COM,0.2193,0.1271,0.0922
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/HBET:6-/COM,0.1533,0.1010,0.0523
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDN/H:1/COM,0.0010,0.0003,0.0007
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDN/H:2/COM,0.0034,0.0021,0.0013
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDN/HBET:3-5/COM,0.3690,0.2455,0.1235
+ISL,Iceland,2,Northeastern Region,Com,CR+PC/LWAL+CDN/HBET:6-/COM,0.0288,0.0151,0.0137
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDH+LFC:20.0/H:1/COM,0.0237,0.0002,0.0235
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDH+LFC:20.0/H:2/COM,0.0315,0.0019,0.0296
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDH+LFC:20.0/HBET:3-5/COM,0.6753,0.1904,0.4849
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDH+LFC:20.0/HBET:6-/COM,0.1117,0.0669,0.0449
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDM+LFC:16.0/H:1/COM,0.0259,0.0007,0.0252
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDM+LFC:16.0/H:2/COM,0.0158,0.0055,0.0104
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDM+LFC:16.0/HBET:3-5/COM,0.3819,0.2392,0.1427
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDM+LFC:16.0/HBET:6-/COM,0.0437,0.0281,0.0156
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDN/H:1/COM,0.0026,0.0001,0.0025
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDN/H:2/COM,0.0065,0.0040,0.0026
+ISL,Iceland,2,Northeastern Region,Com,CR/LWAL+CDN/HBET:3-5/COM,0.3410,0.2294,0.1117
+ISL,Iceland,2,Northeastern Region,Com,MUR/LWAL+CDN/H:1/COM,0.0195,0.0180,0.0015
+ISL,Iceland,2,Northeastern Region,Com,MUR/LWAL+CDN/H:2/COM,0.0097,0.0086,0.0011
+ISL,Iceland,2,Northeastern Region,Com,S/LFBR+CDH/H:1/COM,0.0084,0.0012,0.0072
+ISL,Iceland,2,Northeastern Region,Com,S/LFBR+CDH/H:2/COM,0.0072,0.0028,0.0045
+ISL,Iceland,2,Northeastern Region,Com,S/LFBR+CDH/HBET:3-5/COM,0.0037,0.0016,0.0021
+ISL,Iceland,2,Northeastern Region,Com,S/LFM+CDH/H:1/COM,0.0093,0.0020,0.0072
+ISL,Iceland,2,Northeastern Region,Com,S/LFM+CDH/H:2/COM,0.0121,0.0048,0.0073
+ISL,Iceland,2,Northeastern Region,Com,S/LFM+CDH/HBET:3-5/COM,0.0063,0.0023,0.0039
+ISL,Iceland,2,Northeastern Region,Com,W/LWAL+CDH/H:1/COM,0.0102,0.0020,0.0082
+ISL,Iceland,2,Northeastern Region,Com,W/LWAL+CDH/H:2/COM,0.0076,0.0022,0.0054
+ISL,Iceland,2,Northeastern Region,Com,W/LWAL+CDM/H:1/COM,0.0444,0.0163,0.0280
+ISL,Iceland,2,Northeastern Region,Com,W/LWAL+CDM/H:2/COM,0.0374,0.0148,0.0226
+ISL,Iceland,2,Northeastern Region,Com,W/LWAL+CDN/H:1/COM,0.0356,0.0123,0.0232
+ISL,Iceland,2,Northeastern Region,Com,W/LWAL+CDN/H:2/COM,0.0246,0.0084,0.0162
+ISL,Iceland,2,Northeastern Region,Ind,CR+PC/LFM+CDL/H:1/IND,1.0703,0.8392,0.2311
+ISL,Iceland,2,Northeastern Region,Ind,CR/LFM+CDM/H:1/IND,0.2856,0.0979,0.1876
+ISL,Iceland,2,Northeastern Region,Ind,CR/LWAL+CDH/H:1/IND,0.3133,0.0298,0.2835
+ISL,Iceland,2,Northeastern Region,Ind,CR/LWAL+CDM/HBET:3-5/IND,0.3057,0.2449,0.0607
+ISL,Iceland,2,Northeastern Region,Ind,MR/LWAL+CDL/H:1/IND,0.0834,0.0685,0.0149
+ISL,Iceland,2,Northeastern Region,Ind,MUR/LWAL+CDN/H:1/IND,0.3641,0.3302,0.0339
+ISL,Iceland,2,Northeastern Region,Ind,S/LFBR+CDH/H:1/IND,0.2751,0.1055,0.1697
+ISL,Iceland,2,Northeastern Region,Ind,S/LFM+CDH/H:1/IND,0.2609,0.1198,0.1411
+ISL,Iceland,2,Northeastern Region,Ind,S/LFM+CDH/HBET:3-5/IND,0.0119,0.0092,0.0027
+ISL,Iceland,2,Northeastern Region,Ind,W/LWAL+CDM/H:1/IND,0.6039,0.3531,0.2508
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:10.0/H:2/RES,0.0066,0.0022,0.0044
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:10.0/HBET:3-5/RES,0.0244,0.0116,0.0128
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:15.0/H:2/RES,0.4016,0.1387,0.2630
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:15.0/HBET:3-5/RES,1.1316,0.5520,0.5796
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:20.0/H:2/RES,0.0478,0.0151,0.0328
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:20.0/HBET:3-5/RES,0.1445,0.0665,0.0780
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:5.0/H:2/RES,0.0110,0.0022,0.0088
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:5.0/HBET:3-5/RES,0.1153,0.0349,0.0804
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:5.0/HBET:6-/RES,0.0579,0.0149,0.0430
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:8.0/H:2/RES,0.0229,0.0075,0.0154
+ISL,Iceland,2,Northeastern Region,Res,CR/LDUAL+CDH+LFC:8.0/HBET:3-5/RES,0.0276,0.0107,0.0169
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDH+LFC:10.0/H:2/RES,0.0151,0.0044,0.0107
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDH+LFC:15.0/H:1/RES,0.0020,0.0001,0.0019
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDH+LFC:15.0/H:2/RES,0.5436,0.1443,0.3993
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDH+LFC:20.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDH+LFC:20.0/H:2/RES,0.0541,0.0099,0.0442
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDH+LFC:5.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDH+LFC:5.0/H:2/RES,0.0034,0.0004,0.0030
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDH+LFC:5.0/HBET:3-5/RES,0.0717,0.0145,0.0572
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDH+LFC:8.0/H:2/RES,0.0174,0.0028,0.0146
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDL+LFC:7.0/H:1/RES,1.2104,0.3749,0.8355
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDL+LFC:7.0/H:2/RES,1.4288,0.7119,0.7169
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDL+LFC:7.0/HBET:3-5/RES,16.1974,8.6754,7.5220
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:13.0/H:1/RES,0.2712,0.0463,0.2250
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:13.0/H:2/RES,0.0004,0.0001,0.0003
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:13.0/HBET:3-5/RES,0.7132,0.3654,0.3478
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:16.0/H:1/RES,0.4024,0.0668,0.3355
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:16.0/H:2/RES,0.6948,0.2698,0.4250
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:16.0/HBET:3-5/RES,1.3231,0.6668,0.6564
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:7.0/H:1/RES,0.0647,0.0038,0.0609
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:7.0/H:2/RES,0.0643,0.0278,0.0365
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:7.0/HBET:3-5/RES,0.5992,0.2427,0.3565
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:7.0/HBET:6-/RES,0.1164,0.0617,0.0547
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:8.0/H:1/RES,0.0018,0.0003,0.0015
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:8.0/H:2/RES,0.0385,0.0046,0.0339
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:8.0/HBET:3-5/RES,0.0947,0.0398,0.0549
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDM+LFC:8.0/HBET:6-/RES,0.1162,0.0268,0.0894
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDN/H:1/RES,0.5768,0.1748,0.4020
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDN/H:2/RES,2.5936,1.3382,1.2554
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDN/HBET:3-5/RES,2.3967,1.2446,1.1521
+ISL,Iceland,2,Northeastern Region,Res,CR/LWAL+CDN/HBET:6-/RES,0.3448,0.2036,0.1412
+ISL,Iceland,2,Northeastern Region,Res,MCF/LWAL+CDL/H:1/RES,0.0003,0.0001,0.0002
+ISL,Iceland,2,Northeastern Region,Res,MCF/LWAL+CDL/H:2/RES,0.1198,0.0373,0.0824
+ISL,Iceland,2,Northeastern Region,Res,MUR/LWAL+CDN/H:1/RES,0.6175,0.5233,0.0942
+ISL,Iceland,2,Northeastern Region,Res,MUR/LWAL+CDN/H:2/RES,13.3089,11.2773,2.0316
+ISL,Iceland,2,Northeastern Region,Res,MUR/LWAL+CDN/HBET:3-5/RES,0.1605,0.1341,0.0264
+ISL,Iceland,2,Northeastern Region,Res,W/LWAL+CDH/H:1/RES,0.0380,0.0041,0.0339
+ISL,Iceland,2,Northeastern Region,Res,W/LWAL+CDH/H:2/RES,1.0558,0.2798,0.7760
+ISL,Iceland,2,Northeastern Region,Res,W/LWAL+CDH/HBET:3-5/RES,0.2861,0.0754,0.2107
+ISL,Iceland,2,Northeastern Region,Res,W/LWAL+CDL/H:1/RES,2.6054,0.8891,1.7163
+ISL,Iceland,2,Northeastern Region,Res,W/LWAL+CDL/H:2/RES,0.0443,0.0155,0.0287
+ISL,Iceland,2,Northeastern Region,Res,W/LWAL+CDM/H:1/RES,5.5293,1.8532,3.6761
+ISL,Iceland,2,Northeastern Region,Res,W/LWAL+CDN/H:1/RES,7.0714,2.4342,4.6372
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDH+LFC:10.0/H:1/COM,0.0907,0.0025,0.0883
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDH+LFC:10.0/H:2/COM,0.1918,0.0241,0.1677
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDH+LFC:10.0/HBET:3-5/COM,2.4505,1.1912,1.2593
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDH+LFC:10.0/HBET:6-/COM,0.8590,0.5562,0.3028
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDM+LFC:12.0/H:1/COM,0.2988,0.0213,0.2775
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDM+LFC:12.0/H:2/COM,0.6333,0.2036,0.4297
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDM+LFC:12.0/HBET:3-5/COM,13.4997,8.2592,5.2405
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDM+LFC:12.0/HBET:6-/COM,12.3360,8.2845,4.0515
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDN/H:1/COM,0.0817,0.0143,0.0674
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDN/H:2/COM,0.1962,0.1085,0.0878
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDN/HBET:3-5/COM,16.8542,11.5155,5.3387
+ISL,Iceland,3,Capital Region,Com,CR+PC/LWAL+CDN/HBET:6-/COM,2.4507,1.6467,0.8041
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDH+LFC:10.0/H:1/COM,1.4094,0.0310,1.3783
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDH+LFC:10.0/H:2/COM,2.1371,0.2830,1.8541
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDH+LFC:10.0/HBET:3-5/COM,48.2962,24.1004,24.1959
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDH+LFC:10.0/HBET:6-/COM,6.4397,4.2749,2.1648
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDM+LFC:12.0/H:1/COM,1.7083,0.1136,1.5948
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDM+LFC:12.0/H:2/COM,1.0423,0.3151,0.7272
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDM+LFC:12.0/HBET:3-5/COM,21.8390,13.3439,8.4951
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDM+LFC:12.0/HBET:6-/COM,4.0689,2.6586,1.4103
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDN/H:1/COM,0.2193,0.0421,0.1772
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDN/H:2/COM,0.5957,0.3442,0.2515
+ISL,Iceland,3,Capital Region,Com,CR/LWAL+CDN/HBET:3-5/COM,15.7803,10.6970,5.0834
+ISL,Iceland,3,Capital Region,Com,MUR/LWAL+CDN/H:1/COM,0.7028,0.6115,0.0913
+ISL,Iceland,3,Capital Region,Com,MUR/LWAL+CDN/H:2/COM,0.2170,0.1915,0.0256
+ISL,Iceland,3,Capital Region,Com,S/LFBR+CDH/H:1/COM,0.4119,0.0700,0.3419
+ISL,Iceland,3,Capital Region,Com,S/LFBR+CDH/H:2/COM,0.3453,0.1112,0.2341
+ISL,Iceland,3,Capital Region,Com,S/LFBR+CDH/HBET:3-5/COM,0.4357,0.1931,0.2427
+ISL,Iceland,3,Capital Region,Com,S/LFM+CDH/H:1/COM,0.4662,0.0864,0.3797
+ISL,Iceland,3,Capital Region,Com,S/LFM+CDH/H:2/COM,0.8153,0.3083,0.5069
+ISL,Iceland,3,Capital Region,Com,S/LFM+CDH/HBET:3-5/COM,0.3285,0.1796,0.1488
+ISL,Iceland,3,Capital Region,Com,W/LWAL+CDH/H:1/COM,0.5412,0.0911,0.4501
+ISL,Iceland,3,Capital Region,Com,W/LWAL+CDH/H:2/COM,0.4067,0.0723,0.3344
+ISL,Iceland,3,Capital Region,Com,W/LWAL+CDM/H:1/COM,2.6186,0.8792,1.7394
+ISL,Iceland,3,Capital Region,Com,W/LWAL+CDM/H:2/COM,2.0286,0.6256,1.4030
+ISL,Iceland,3,Capital Region,Com,W/LWAL+CDN/H:1/COM,1.3767,0.4724,0.9043
+ISL,Iceland,3,Capital Region,Com,W/LWAL+CDN/H:2/COM,1.1997,0.4162,0.7835
+ISL,Iceland,3,Capital Region,Ind,CR+PC/LFM+CDL/H:1/IND,37.3149,29.4174,7.8975
+ISL,Iceland,3,Capital Region,Ind,CR/LFM+CDM/H:1/IND,9.6169,2.8143,6.8026
+ISL,Iceland,3,Capital Region,Ind,CR/LWAL+CDH/H:1/IND,8.7678,0.5090,8.2587
+ISL,Iceland,3,Capital Region,Ind,CR/LWAL+CDM/HBET:3-5/IND,9.9860,8.1840,1.8020
+ISL,Iceland,3,Capital Region,Ind,MR/LWAL+CDL/H:1/IND,2.7762,2.2849,0.4913
+ISL,Iceland,3,Capital Region,Ind,MUR/LWAL+CDN/H:1/IND,14.4511,13.2053,1.2458
+ISL,Iceland,3,Capital Region,Ind,S/LFBR+CDH/H:1/IND,9.2404,3.3808,5.8595
+ISL,Iceland,3,Capital Region,Ind,S/LFM+CDH/H:1/IND,9.0678,3.9440,5.1237
+ISL,Iceland,3,Capital Region,Ind,S/LFM+CDH/HBET:3-5/IND,0.4630,0.3660,0.0970
+ISL,Iceland,3,Capital Region,Ind,W/LWAL+CDM/H:1/IND,19.6067,11.5022,8.1046
+ISL,Iceland,3,Capital Region,Res,CR/LDUAL+CDH+LFC:10.0/H:2/RES,1.2546,0.4377,0.8169
+ISL,Iceland,3,Capital Region,Res,CR/LDUAL+CDH+LFC:10.0/HBET:3-5/RES,8.1735,4.4654,3.7081
+ISL,Iceland,3,Capital Region,Res,CR/LDUAL+CDH+LFC:10.0/HBET:6-/RES,7.3199,3.6324,3.6875
+ISL,Iceland,3,Capital Region,Res,CR/LDUAL+CDH+LFC:5.0/H:2/RES,0.1483,0.0271,0.1212
+ISL,Iceland,3,Capital Region,Res,CR/LDUAL+CDH+LFC:5.0/HBET:3-5/RES,0.3311,0.1580,0.1730
+ISL,Iceland,3,Capital Region,Res,CR/LDUAL+CDH+LFC:8.0/H:2/RES,1.3813,0.4584,0.9229
+ISL,Iceland,3,Capital Region,Res,CR/LDUAL+CDH+LFC:8.0/HBET:3-5/RES,9.0751,3.8592,5.2159
+ISL,Iceland,3,Capital Region,Res,CR/LDUAL+CDH+LFC:8.0/HBET:6-/RES,10.0558,4.8151,5.2407
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDH+LFC:10.0/H:2/RES,0.0134,0.0017,0.0117
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDH+LFC:10.0/HBET:3-5/RES,6.0298,2.6885,3.3413
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDH+LFC:5.0/H:1/RES,0.0002,0.0000,0.0002
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDH+LFC:5.0/H:2/RES,0.1500,0.0249,0.1250
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDH+LFC:8.0/H:2/RES,0.0706,0.0149,0.0557
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDH+LFC:8.0/HBET:3-5/RES,6.6239,2.7542,3.8697
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDL+LFC:7.0/H:1/RES,5.0420,1.2295,3.8125
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDL+LFC:7.0/H:2/RES,15.8972,8.1156,7.7816
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDL+LFC:7.0/HBET:3-5/RES,532.3895,289.7437,242.6458
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:12.0/H:1/RES,0.1451,0.0172,0.1280
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:12.0/H:2/RES,13.4340,4.7698,8.6642
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:12.0/HBET:3-5/RES,12.1125,5.9457,6.1668
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:12.0/HBET:6-/RES,19.2782,10.1142,9.1640
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:13.0/H:1/RES,0.0872,0.0088,0.0784
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:13.0/H:2/RES,3.3126,1.1507,2.1619
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:13.0/HBET:3-5/RES,23.2649,11.3240,11.9409
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:13.0/HBET:6-/RES,15.7507,8.3039,7.4468
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:16.0/H:1/RES,0.0020,0.0002,0.0018
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:16.0/H:2/RES,2.8211,0.9021,1.9190
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:16.0/HBET:3-5/RES,2.5664,1.4162,1.1501
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:16.0/HBET:6-/RES,4.3338,2.2641,2.0696
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:7.0/H:1/RES,0.0028,0.0000,0.0028
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:7.0/H:2/RES,0.2301,0.0607,0.1694
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:7.0/HBET:3-5/RES,1.4468,0.6201,0.8267
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:7.0/HBET:6-/RES,0.5844,0.2986,0.2858
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:8.0/H:1/RES,0.0004,0.0001,0.0003
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:8.0/H:2/RES,0.0018,0.0008,0.0010
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDM+LFC:8.0/HBET:3-5/RES,0.0016,0.0005,0.0010
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDN/H:1/RES,0.2541,0.0517,0.2024
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDN/H:2/RES,16.4689,8.0703,8.3986
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDN/HBET:3-5/RES,348.3234,184.3974,163.9260
+ISL,Iceland,3,Capital Region,Res,CR/LWAL+CDN/HBET:6-/RES,69.2821,37.1007,32.1814
+ISL,Iceland,3,Capital Region,Res,MCF/LWAL+CDL/H:1/RES,0.2455,0.0592,0.1863
+ISL,Iceland,3,Capital Region,Res,MCF/LWAL+CDL/H:2/RES,21.6653,8.9373,12.7279
+ISL,Iceland,3,Capital Region,Res,MUR/LWAL+CDN/H:1/RES,0.3096,0.2733,0.0362
+ISL,Iceland,3,Capital Region,Res,MUR/LWAL+CDN/H:2/RES,7.2316,6.1500,1.0815
+ISL,Iceland,3,Capital Region,Res,MUR/LWAL+CDN/HBET:3-5/RES,0.1022,0.0876,0.0146
+ISL,Iceland,3,Capital Region,Res,W/LWAL+CDH/H:1/RES,3.7703,0.8950,2.8753
+ISL,Iceland,3,Capital Region,Res,W/LWAL+CDH/H:2/RES,2.6560,0.6522,2.0038
+ISL,Iceland,3,Capital Region,Res,W/LWAL+CDH/HBET:3-5/RES,2.0060,0.4810,1.5250
+ISL,Iceland,3,Capital Region,Res,W/LWAL+CDL/H:1/RES,1.2485,0.4088,0.8397
+ISL,Iceland,3,Capital Region,Res,W/LWAL+CDL/H:2/RES,0.0128,0.0046,0.0082
+ISL,Iceland,3,Capital Region,Res,W/LWAL+CDM/H:1/RES,2.0804,0.6749,1.4055
+ISL,Iceland,3,Capital Region,Res,W/LWAL+CDM/HBET:3-5/RES,0.0010,0.0003,0.0007
+ISL,Iceland,3,Capital Region,Res,W/LWAL+CDN/H:1/RES,3.1226,1.0274,2.0952
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDH+LFC:0.0/H:1/COM,0.0000,0.0000,0.0000
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDH+LFC:0.0/H:2/COM,0.0000,0.0000,0.0000
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDH+LFC:0.0/HBET:3-5/COM,0.0010,0.0003,0.0008
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDH+LFC:0.0/HBET:6-/COM,0.0018,0.0007,0.0011
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/H:1/COM,0.0004,0.0000,0.0004
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/H:2/COM,0.0002,0.0001,0.0001
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/HBET:3-5/COM,0.0174,0.0109,0.0065
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/HBET:6-/COM,0.0050,0.0024,0.0025
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDN/H:1/COM,0.0000,0.0000,0.0000
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDN/H:2/COM,0.0000,0.0000,0.0000
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDN/HBET:3-5/COM,0.0145,0.0098,0.0048
+ISL,Iceland,4,Northwestern Region,Com,CR+PC/LWAL+CDN/HBET:6-/COM,0.0010,0.0007,0.0003
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDH+LFC:0.0/H:1/COM,0.0011,0.0000,0.0011
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDH+LFC:0.0/H:2/COM,0.0025,0.0002,0.0023
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDH+LFC:0.0/HBET:3-5/COM,0.0164,0.0125,0.0039
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDH+LFC:0.0/HBET:6-/COM,0.0169,0.0130,0.0039
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDM+LFC:16.0/H:1/COM,0.0014,0.0000,0.0014
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDM+LFC:16.0/H:2/COM,0.0002,0.0000,0.0002
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDM+LFC:16.0/HBET:3-5/COM,0.0236,0.0206,0.0030
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDM+LFC:16.0/HBET:6-/COM,0.0019,0.0013,0.0005
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDN/H:1/COM,0.0002,0.0000,0.0002
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDN/H:2/COM,0.0003,0.0003,0.0000
+ISL,Iceland,4,Northwestern Region,Com,CR/LWAL+CDN/HBET:3-5/COM,0.0137,0.0100,0.0037
+ISL,Iceland,4,Northwestern Region,Com,MUR/LWAL+CDN/H:1/COM,0.0011,0.0010,0.0001
+ISL,Iceland,4,Northwestern Region,Com,S/LFBR+CDH/H:1/COM,0.0004,0.0000,0.0003
+ISL,Iceland,4,Northwestern Region,Com,S/LFBR+CDH/H:2/COM,0.0001,0.0001,0.0000
+ISL,Iceland,4,Northwestern Region,Com,S/LFBR+CDH/HBET:3-5/COM,0.0003,0.0002,0.0001
+ISL,Iceland,4,Northwestern Region,Com,S/LFM+CDH/H:1/COM,0.0004,0.0000,0.0003
+ISL,Iceland,4,Northwestern Region,Com,S/LFM+CDH/H:2/COM,0.0005,0.0002,0.0004
+ISL,Iceland,4,Northwestern Region,Com,S/LFM+CDH/HBET:3-5/COM,0.0000,0.0000,0.0000
+ISL,Iceland,4,Northwestern Region,Com,W/LWAL+CDH/H:1/COM,0.0002,0.0001,0.0001
+ISL,Iceland,4,Northwestern Region,Com,W/LWAL+CDH/H:2/COM,0.0003,0.0001,0.0003
+ISL,Iceland,4,Northwestern Region,Com,W/LWAL+CDM/H:1/COM,0.0016,0.0004,0.0011
+ISL,Iceland,4,Northwestern Region,Com,W/LWAL+CDM/H:2/COM,0.0010,0.0004,0.0006
+ISL,Iceland,4,Northwestern Region,Com,W/LWAL+CDN/H:1/COM,0.0012,0.0004,0.0008
+ISL,Iceland,4,Northwestern Region,Com,W/LWAL+CDN/H:2/COM,0.0007,0.0003,0.0005
+ISL,Iceland,4,Northwestern Region,Ind,CR+PC/LFM+CDL/H:1/IND,0.0296,0.0246,0.0050
+ISL,Iceland,4,Northwestern Region,Ind,CR/LFM+CDM/H:1/IND,0.0032,0.0013,0.0019
+ISL,Iceland,4,Northwestern Region,Ind,CR/LWAL+CDH/H:1/IND,0.0005,0.0000,0.0005
+ISL,Iceland,4,Northwestern Region,Ind,CR/LWAL+CDM/HBET:3-5/IND,0.0031,0.0026,0.0004
+ISL,Iceland,4,Northwestern Region,Ind,MR/LWAL+CDL/H:1/IND,0.0007,0.0005,0.0001
+ISL,Iceland,4,Northwestern Region,Ind,MUR/LWAL+CDN/H:1/IND,0.0161,0.0156,0.0005
+ISL,Iceland,4,Northwestern Region,Ind,S/LFBR+CDH/H:1/IND,0.0048,0.0020,0.0028
+ISL,Iceland,4,Northwestern Region,Ind,S/LFM+CDH/H:1/IND,0.0048,0.0036,0.0012
+ISL,Iceland,4,Northwestern Region,Ind,S/LFM+CDH/HBET:3-5/IND,0.0000,0.0000,0.0000
+ISL,Iceland,4,Northwestern Region,Ind,W/LWAL+CDM/H:1/IND,0.0081,0.0039,0.0042
+ISL,Iceland,4,Northwestern Region,Res,CR/LDUAL+CDH+LFC:0.0/H:2/RES,0.0014,0.0006,0.0008
+ISL,Iceland,4,Northwestern Region,Res,CR/LDUAL+CDH+LFC:0.0/HBET:3-5/RES,0.0041,0.0019,0.0022
+ISL,Iceland,4,Northwestern Region,Res,CR/LDUAL+CDH+LFC:5.0/H:2/RES,0.0069,0.0015,0.0055
+ISL,Iceland,4,Northwestern Region,Res,CR/LDUAL+CDH+LFC:5.0/HBET:3-5/RES,0.0083,0.0025,0.0057
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDH+LFC:0.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDH+LFC:0.0/H:2/RES,0.0018,0.0006,0.0012
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDH+LFC:5.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDH+LFC:5.0/H:2/RES,0.0048,0.0006,0.0042
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDL+LFC:7.0/H:1/RES,0.0140,0.0055,0.0085
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDL+LFC:7.0/H:2/RES,0.0179,0.0108,0.0071
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDL+LFC:7.0/HBET:3-5/RES,0.3633,0.1699,0.1934
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:13.0/H:1/RES,0.0011,0.0001,0.0010
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:13.0/H:2/RES,0.0000,0.0000,0.0000
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:13.0/HBET:3-5/RES,0.0034,0.0014,0.0020
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:16.0/H:1/RES,0.0037,0.0002,0.0036
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:16.0/H:2/RES,0.0065,0.0031,0.0033
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:16.0/HBET:3-5/RES,0.0065,0.0032,0.0033
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:7.0/H:1/RES,0.0041,0.0002,0.0039
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:7.0/H:2/RES,0.0001,0.0000,0.0001
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:7.0/HBET:3-5/RES,0.0091,0.0031,0.0060
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:8.0/H:1/RES,0.0004,0.0000,0.0004
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:8.0/H:2/RES,0.0019,0.0005,0.0015
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDM+LFC:8.0/HBET:3-5/RES,0.0028,0.0010,0.0017
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDN/H:1/RES,0.0052,0.0007,0.0045
+ISL,Iceland,4,Northwestern Region,Res,CR/LWAL+CDN/H:2/RES,0.0268,0.0122,0.0146
+ISL,Iceland,4,Northwestern Region,Res,MUR/LWAL+CDN/H:1/RES,0.0136,0.0124,0.0012
+ISL,Iceland,4,Northwestern Region,Res,MUR/LWAL+CDN/H:2/RES,0.4854,0.4134,0.0721
+ISL,Iceland,4,Northwestern Region,Res,MUR/LWAL+CDN/HBET:3-5/RES,0.0041,0.0035,0.0006
+ISL,Iceland,4,Northwestern Region,Res,W/LWAL+CDH/H:1/RES,0.0001,0.0000,0.0001
+ISL,Iceland,4,Northwestern Region,Res,W/LWAL+CDH/H:2/RES,0.0067,0.0016,0.0052
+ISL,Iceland,4,Northwestern Region,Res,W/LWAL+CDH/HBET:3-5/RES,0.0021,0.0006,0.0015
+ISL,Iceland,4,Northwestern Region,Res,W/LWAL+CDL/H:1/RES,0.0624,0.0184,0.0440
+ISL,Iceland,4,Northwestern Region,Res,W/LWAL+CDL/H:2/RES,0.0004,0.0001,0.0003
+ISL,Iceland,4,Northwestern Region,Res,W/LWAL+CDM/H:1/RES,0.0853,0.0237,0.0616
+ISL,Iceland,4,Northwestern Region,Res,W/LWAL+CDN/H:1/RES,0.1908,0.0635,0.1273
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDH+LFC:20.0/H:1/COM,0.0553,0.0031,0.0522
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDH+LFC:20.0/H:2/COM,0.1220,0.0337,0.0884
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDH+LFC:20.0/HBET:3-5/COM,3.1557,1.6797,1.4760
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDH+LFC:20.0/HBET:6-/COM,0.9197,0.5857,0.3340
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/H:1/COM,0.2809,0.0483,0.2326
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/H:2/COM,0.4486,0.1622,0.2865
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/HBET:3-5/COM,15.7809,9.8344,5.9465
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDM+LFC:16.0/HBET:6-/COM,10.2541,6.5323,3.7218
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDN/H:1/COM,0.0349,0.0066,0.0283
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDN/H:2/COM,0.2282,0.1294,0.0988
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDN/HBET:3-5/COM,12.8707,8.4005,4.4702
+ISL,Iceland,5,Southern Region,Com,CR+PC/LWAL+CDN/HBET:6-/COM,0.3900,0.2550,0.1350
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDH+LFC:20.0/H:1/COM,1.6752,0.1163,1.5590
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDH+LFC:20.0/H:2/COM,2.7354,0.6170,2.1184
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDH+LFC:20.0/HBET:3-5/COM,56.6517,29.7869,26.8648
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDH+LFC:20.0/HBET:6-/COM,10.1839,6.6053,3.5785
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDM+LFC:16.0/H:1/COM,2.0682,0.3187,1.7495
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDM+LFC:16.0/H:2/COM,1.4426,0.5538,0.8888
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDM+LFC:16.0/HBET:3-5/COM,22.1885,13.1645,9.0240
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDM+LFC:16.0/HBET:6-/COM,3.0719,2.0057,1.0662
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDN/H:1/COM,0.3065,0.0819,0.2246
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDN/H:2/COM,0.7654,0.4409,0.3245
+ISL,Iceland,5,Southern Region,Com,CR/LWAL+CDN/HBET:3-5/COM,8.6451,5.6750,2.9701
+ISL,Iceland,5,Southern Region,Com,MUR/LWAL+CDN/H:1/COM,0.4460,0.3740,0.0720
+ISL,Iceland,5,Southern Region,Com,MUR/LWAL+CDN/H:2/COM,0.1160,0.0988,0.0173
+ISL,Iceland,5,Southern Region,Com,S/LFBR+CDH/H:1/COM,0.3393,0.0878,0.2515
+ISL,Iceland,5,Southern Region,Com,S/LFBR+CDH/H:2/COM,0.4021,0.1658,0.2363
+ISL,Iceland,5,Southern Region,Com,S/LFBR+CDH/HBET:3-5/COM,0.4418,0.2394,0.2025
+ISL,Iceland,5,Southern Region,Com,S/LFM+CDH/H:1/COM,0.1743,0.0473,0.1271
+ISL,Iceland,5,Southern Region,Com,S/LFM+CDH/H:2/COM,0.1727,0.0756,0.0971
+ISL,Iceland,5,Southern Region,Com,S/LFM+CDH/HBET:3-5/COM,0.3623,0.2005,0.1618
+ISL,Iceland,5,Southern Region,Com,W/LWAL+CDH/H:1/COM,0.4568,0.1074,0.3494
+ISL,Iceland,5,Southern Region,Com,W/LWAL+CDH/H:2/COM,0.3930,0.1014,0.2916
+ISL,Iceland,5,Southern Region,Com,W/LWAL+CDM/H:1/COM,1.4107,0.4622,0.9485
+ISL,Iceland,5,Southern Region,Com,W/LWAL+CDM/H:2/COM,1.4494,0.4605,0.9889
+ISL,Iceland,5,Southern Region,Com,W/LWAL+CDN/H:1/COM,0.8874,0.3053,0.5821
+ISL,Iceland,5,Southern Region,Com,W/LWAL+CDN/H:2/COM,0.4812,0.1627,0.3185
+ISL,Iceland,5,Southern Region,Ind,CR+PC/LFM+CDL/H:1/IND,10.2754,7.9826,2.2929
+ISL,Iceland,5,Southern Region,Ind,CR/LFM+CDM/H:1/IND,2.8885,0.9847,1.9037
+ISL,Iceland,5,Southern Region,Ind,CR/LWAL+CDH/H:1/IND,3.3949,0.3048,3.0901
+ISL,Iceland,5,Southern Region,Ind,CR/LWAL+CDM/HBET:3-5/IND,3.2334,2.6229,0.6105
+ISL,Iceland,5,Southern Region,Ind,MR/LWAL+CDL/H:1/IND,0.8108,0.6637,0.1472
+ISL,Iceland,5,Southern Region,Ind,MUR/LWAL+CDN/H:1/IND,3.0723,2.7672,0.3051
+ISL,Iceland,5,Southern Region,Ind,S/LFBR+CDH/H:1/IND,2.7184,0.9966,1.7218
+ISL,Iceland,5,Southern Region,Ind,S/LFM+CDH/H:1/IND,2.6401,1.1547,1.4855
+ISL,Iceland,5,Southern Region,Ind,S/LFM+CDH/HBET:3-5/IND,0.1691,0.1289,0.0401
+ISL,Iceland,5,Southern Region,Ind,W/LWAL+CDM/H:1/IND,5.7731,3.3741,2.3990
+ISL,Iceland,5,Southern Region,Res,CR/LDUAL+CDH+LFC:10.0/H:2/RES,0.0297,0.0124,0.0173
+ISL,Iceland,5,Southern Region,Res,CR/LDUAL+CDH+LFC:10.0/HBET:3-5/RES,0.0340,0.0148,0.0192
+ISL,Iceland,5,Southern Region,Res,CR/LDUAL+CDH+LFC:20.0/H:2/RES,2.4481,0.8309,1.6171
+ISL,Iceland,5,Southern Region,Res,CR/LDUAL+CDH+LFC:20.0/HBET:3-5/RES,6.6315,3.1626,3.4689
+ISL,Iceland,5,Southern Region,Res,CR/LDUAL+CDH+LFC:20.0/HBET:6-/RES,3.4505,1.6947,1.7558
+ISL,Iceland,5,Southern Region,Res,CR/LDUAL+CDH+LFC:5.0/H:2/RES,0.0648,0.0213,0.0435
+ISL,Iceland,5,Southern Region,Res,CR/LDUAL+CDH+LFC:5.0/HBET:3-5/RES,0.1717,0.0870,0.0848
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDH+LFC:10.0/H:1/RES,0.0001,0.0000,0.0001
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDH+LFC:10.0/H:2/RES,0.0192,0.0014,0.0178
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDH+LFC:20.0/H:1/RES,0.0105,0.0008,0.0096
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDH+LFC:20.0/H:2/RES,1.4714,0.4061,1.0653
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDH+LFC:20.0/HBET:3-5/RES,3.3930,1.4423,1.9507
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDH+LFC:5.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDH+LFC:5.0/H:2/RES,0.0755,0.0187,0.0568
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDL+LFC:7.0/H:1/RES,5.5580,1.5423,4.0158
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDL+LFC:7.0/H:2/RES,8.0946,4.1312,3.9634
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDL+LFC:7.0/HBET:3-5/RES,108.1200,59.2231,48.8969
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:0.0/H:1/RES,0.1519,0.0132,0.1387
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:0.0/H:2/RES,0.1240,0.0321,0.0919
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:0.0/HBET:3-5/RES,0.0898,0.0363,0.0534
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:13.0/H:1/RES,0.7629,0.1482,0.6147
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:13.0/H:2/RES,1.2908,0.4862,0.8045
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:13.0/HBET:3-5/RES,6.8351,3.6875,3.1476
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:13.0/HBET:6-/RES,3.2798,1.7434,1.5364
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:16.0/H:1/RES,1.1085,0.1958,0.9127
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:16.0/H:2/RES,7.6045,3.1523,4.4521
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:16.0/HBET:3-5/RES,5.6626,2.9093,2.7534
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:16.0/HBET:6-/RES,4.6352,2.5537,2.0815
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:7.0/H:1/RES,0.2568,0.0226,0.2343
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:7.0/H:2/RES,0.0203,0.0042,0.0161
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:7.0/HBET:3-5/RES,0.2532,0.1174,0.1358
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:8.0/H:1/RES,0.0011,0.0001,0.0010
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:8.0/H:2/RES,0.0024,0.0006,0.0019
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDM+LFC:8.0/HBET:3-5/RES,0.0026,0.0014,0.0012
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDN/H:1/RES,1.7261,0.5185,1.2077
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDN/H:2/RES,10.5588,5.4645,5.0943
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDN/HBET:3-5/RES,52.3947,29.6738,22.7209
+ISL,Iceland,5,Southern Region,Res,CR/LWAL+CDN/HBET:6-/RES,12.4184,6.6734,5.7450
+ISL,Iceland,5,Southern Region,Res,MCF/LWAL+CDL/H:1/RES,0.1637,0.0498,0.1139
+ISL,Iceland,5,Southern Region,Res,MCF/LWAL+CDL/H:2/RES,4.0951,1.8116,2.2836
+ISL,Iceland,5,Southern Region,Res,MUR/LWAL+CDN/H:1/RES,2.9920,2.5610,0.4310
+ISL,Iceland,5,Southern Region,Res,MUR/LWAL+CDN/H:2/RES,30.0369,25.5352,4.5017
+ISL,Iceland,5,Southern Region,Res,MUR/LWAL+CDN/HBET:3-5/RES,0.8097,0.6885,0.1213
+ISL,Iceland,5,Southern Region,Res,W/LWAL+CDH/H:1/RES,0.9803,0.2672,0.7130
+ISL,Iceland,5,Southern Region,Res,W/LWAL+CDH/H:2/RES,3.0182,0.8470,2.1712
+ISL,Iceland,5,Southern Region,Res,W/LWAL+CDH/HBET:3-5/RES,1.2724,0.3388,0.9337
+ISL,Iceland,5,Southern Region,Res,W/LWAL+CDL/H:1/RES,5.6332,1.9482,3.6849
+ISL,Iceland,5,Southern Region,Res,W/LWAL+CDL/H:2/RES,0.1895,0.0636,0.1259
+ISL,Iceland,5,Southern Region,Res,W/LWAL+CDM/H:1/RES,12.7572,4.3162,8.4410
+ISL,Iceland,5,Southern Region,Res,W/LWAL+CDM/HBET:3-5/RES,0.0068,0.0022,0.0046
+ISL,Iceland,5,Southern Region,Res,W/LWAL+CDN/H:1/RES,13.4529,4.6142,8.8387
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDH+LFC:10.0/H:1/COM,0.0077,0.0003,0.0074
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDH+LFC:10.0/H:2/COM,0.0215,0.0041,0.0174
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDH+LFC:10.0/HBET:3-5/COM,0.2908,0.1434,0.1474
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDH+LFC:10.0/HBET:6-/COM,0.0991,0.0659,0.0332
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDM+LFC:16.0/H:1/COM,0.0362,0.0031,0.0330
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDM+LFC:16.0/H:2/COM,0.0667,0.0224,0.0443
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDM+LFC:16.0/HBET:3-5/COM,1.3642,0.8624,0.5018
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDM+LFC:16.0/HBET:6-/COM,1.2103,0.8155,0.3947
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDN/H:1/COM,0.0109,0.0019,0.0090
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDN/H:2/COM,0.0233,0.0119,0.0114
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDN/HBET:3-5/COM,1.4840,0.9735,0.5105
+ISL,Iceland,6,Southern Peninsula,Com,CR+PC/LWAL+CDN/HBET:6-/COM,0.3024,0.1924,0.1100
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDH+LFC:10.0/H:1/COM,0.1567,0.0040,0.1527
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDH+LFC:10.0/H:2/COM,0.2190,0.0478,0.1713
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDH+LFC:10.0/HBET:3-5/COM,5.1183,2.4373,2.6809
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDH+LFC:10.0/HBET:6-/COM,0.5910,0.3855,0.2055
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDM+LFC:16.0/H:1/COM,0.2146,0.0199,0.1947
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDM+LFC:16.0/H:2/COM,0.1326,0.0383,0.0943
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDM+LFC:16.0/HBET:3-5/COM,2.0042,1.4128,0.5913
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDM+LFC:16.0/HBET:6-/COM,0.3547,0.2217,0.1330
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDN/H:1/COM,0.0246,0.0058,0.0188
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDN/H:2/COM,0.0895,0.0417,0.0478
+ISL,Iceland,6,Southern Peninsula,Com,CR/LWAL+CDN/HBET:3-5/COM,1.2675,0.8997,0.3678
+ISL,Iceland,6,Southern Peninsula,Com,MUR/LWAL+CDN/H:1/COM,0.0615,0.0539,0.0076
+ISL,Iceland,6,Southern Peninsula,Com,MUR/LWAL+CDN/H:2/COM,0.0305,0.0262,0.0043
+ISL,Iceland,6,Southern Peninsula,Com,S/LFBR+CDH/H:1/COM,0.0345,0.0063,0.0282
+ISL,Iceland,6,Southern Peninsula,Com,S/LFBR+CDH/H:2/COM,0.0366,0.0130,0.0236
+ISL,Iceland,6,Southern Peninsula,Com,S/LFBR+CDH/HBET:3-5/COM,0.0439,0.0230,0.0209
+ISL,Iceland,6,Southern Peninsula,Com,S/LFM+CDH/H:1/COM,0.0434,0.0079,0.0354
+ISL,Iceland,6,Southern Peninsula,Com,S/LFM+CDH/H:2/COM,0.0744,0.0273,0.0471
+ISL,Iceland,6,Southern Peninsula,Com,S/LFM+CDH/HBET:3-5/COM,0.0317,0.0153,0.0164
+ISL,Iceland,6,Southern Peninsula,Com,W/LWAL+CDH/H:1/COM,0.0531,0.0076,0.0455
+ISL,Iceland,6,Southern Peninsula,Com,W/LWAL+CDH/H:2/COM,0.0375,0.0089,0.0286
+ISL,Iceland,6,Southern Peninsula,Com,W/LWAL+CDM/H:1/COM,0.2770,0.0838,0.1932
+ISL,Iceland,6,Southern Peninsula,Com,W/LWAL+CDM/H:2/COM,0.2229,0.0716,0.1513
+ISL,Iceland,6,Southern Peninsula,Com,W/LWAL+CDN/H:1/COM,0.1676,0.0573,0.1104
+ISL,Iceland,6,Southern Peninsula,Com,W/LWAL+CDN/H:2/COM,0.1012,0.0359,0.0653
+ISL,Iceland,6,Southern Peninsula,Ind,CR+PC/LFM+CDL/H:1/IND,37.0365,28.5510,8.4856
+ISL,Iceland,6,Southern Peninsula,Ind,CR/LFM+CDM/H:1/IND,10.3354,3.7398,6.5956
+ISL,Iceland,6,Southern Peninsula,Ind,CR/LWAL+CDH/H:1/IND,12.0022,1.3066,10.6957
+ISL,Iceland,6,Southern Peninsula,Ind,CR/LWAL+CDM/HBET:3-5/IND,11.8435,9.4587,2.3848
+ISL,Iceland,6,Southern Peninsula,Ind,MR/LWAL+CDL/H:1/IND,2.9519,2.4319,0.5200
+ISL,Iceland,6,Southern Peninsula,Ind,MUR/LWAL+CDN/H:1/IND,10.9524,9.8832,1.0692
+ISL,Iceland,6,Southern Peninsula,Ind,S/LFBR+CDH/H:1/IND,9.4155,3.6562,5.7593
+ISL,Iceland,6,Southern Peninsula,Ind,S/LFM+CDH/H:1/IND,9.7735,4.3715,5.4019
+ISL,Iceland,6,Southern Peninsula,Ind,S/LFM+CDH/HBET:3-5/IND,0.7173,0.5496,0.1678
+ISL,Iceland,6,Southern Peninsula,Ind,W/LWAL+CDM/H:1/IND,20.7483,12.0655,8.6828
+ISL,Iceland,6,Southern Peninsula,Res,CR/LDUAL+CDH+LFC:10.0/H:2/RES,1.4171,0.4736,0.9435
+ISL,Iceland,6,Southern Peninsula,Res,CR/LDUAL+CDH+LFC:10.0/HBET:3-5/RES,5.2286,2.5103,2.7184
+ISL,Iceland,6,Southern Peninsula,Res,CR/LDUAL+CDH+LFC:10.0/HBET:6-/RES,3.3109,1.6678,1.6432
+ISL,Iceland,6,Southern Peninsula,Res,CR/LDUAL+CDH+LFC:5.0/H:2/RES,0.0174,0.0035,0.0139
+ISL,Iceland,6,Southern Peninsula,Res,CR/LDUAL+CDH+LFC:5.0/HBET:3-5/RES,0.0257,0.0104,0.0154
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDH+LFC:10.0/H:1/RES,0.0018,0.0001,0.0016
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDH+LFC:10.0/H:2/RES,0.5329,0.1387,0.3942
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDH+LFC:10.0/HBET:3-5/RES,3.6481,1.7245,1.9236
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDH+LFC:5.0/H:2/RES,0.0067,0.0013,0.0054
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDL+LFC:7.0/H:1/RES,2.5558,0.7177,1.8380
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDL+LFC:7.0/H:2/RES,4.5828,2.0990,2.4838
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDL+LFC:7.0/HBET:3-5/RES,74.2357,41.2457,32.9900
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDM+LFC:13.0/H:1/RES,0.3270,0.0555,0.2716
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDM+LFC:13.0/H:2/RES,0.7085,0.2472,0.4613
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDM+LFC:13.0/HBET:3-5/RES,6.0368,3.2691,2.7678
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDM+LFC:13.0/HBET:6-/RES,3.0261,1.7519,1.2742
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDM+LFC:16.0/H:1/RES,0.4070,0.0748,0.3322
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDM+LFC:16.0/H:2/RES,4.3563,1.6201,2.7362
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDM+LFC:16.0/HBET:3-5/RES,4.0334,2.2526,1.7808
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDM+LFC:16.0/HBET:6-/RES,4.4015,2.3415,2.0600
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDN/H:1/RES,0.6042,0.1674,0.4367
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDN/H:2/RES,5.9368,3.0581,2.8787
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDN/HBET:3-5/RES,46.2502,25.3352,20.9150
+ISL,Iceland,6,Southern Peninsula,Res,CR/LWAL+CDN/HBET:6-/RES,11.2403,5.8203,5.4200
+ISL,Iceland,6,Southern Peninsula,Res,MCF/LWAL+CDL/H:1/RES,0.0057,0.0018,0.0039
+ISL,Iceland,6,Southern Peninsula,Res,MCF/LWAL+CDL/H:2/RES,3.3852,1.5472,1.8381
+ISL,Iceland,6,Southern Peninsula,Res,MUR/LWAL+CDN/H:1/RES,0.5011,0.4311,0.0699
+ISL,Iceland,6,Southern Peninsula,Res,MUR/LWAL+CDN/H:2/RES,11.4944,9.7341,1.7604
+ISL,Iceland,6,Southern Peninsula,Res,MUR/LWAL+CDN/HBET:3-5/RES,0.0853,0.0724,0.0129
+ISL,Iceland,6,Southern Peninsula,Res,W/LWAL+CDH/H:1/RES,0.9254,0.2773,0.6482
+ISL,Iceland,6,Southern Peninsula,Res,W/LWAL+CDH/H:2/RES,1.5822,0.4605,1.1217
+ISL,Iceland,6,Southern Peninsula,Res,W/LWAL+CDH/HBET:3-5/RES,0.8135,0.2087,0.6048
+ISL,Iceland,6,Southern Peninsula,Res,W/LWAL+CDL/H:1/RES,2.1361,0.7228,1.4134
+ISL,Iceland,6,Southern Peninsula,Res,W/LWAL+CDL/H:2/RES,0.0338,0.0111,0.0226
+ISL,Iceland,6,Southern Peninsula,Res,W/LWAL+CDM/H:1/RES,4.9008,1.6587,3.2421
+ISL,Iceland,6,Southern Peninsula,Res,W/LWAL+CDM/HBET:3-5/RES,0.0011,0.0003,0.0008
+ISL,Iceland,6,Southern Peninsula,Res,W/LWAL+CDN/H:1/RES,5.3503,1.8403,3.5100
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDH+LFC:0.0/H:1/COM,0.0000,0.0000,0.0000
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDH+LFC:0.0/H:2/COM,0.0003,0.0000,0.0002
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDH+LFC:0.0/HBET:3-5/COM,0.0017,0.0002,0.0016
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDH+LFC:0.0/HBET:6-/COM,0.0004,0.0001,0.0003
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDM+LFC:4.0/H:1/COM,0.0004,0.0000,0.0004
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDM+LFC:4.0/H:2/COM,0.0019,0.0000,0.0019
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDM+LFC:4.0/HBET:3-5/COM,0.0079,0.0059,0.0020
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDM+LFC:4.0/HBET:6-/COM,0.0142,0.0052,0.0090
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDN/H:1/COM,0.0001,0.0000,0.0001
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDN/H:2/COM,0.0002,0.0000,0.0002
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDN/HBET:3-5/COM,0.0094,0.0065,0.0029
+ISL,Iceland,7,Westfjords,Com,CR+PC/LWAL+CDN/HBET:6-/COM,0.0014,0.0012,0.0003
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDH+LFC:0.0/H:1/COM,0.0005,0.0000,0.0005
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDH+LFC:0.0/H:2/COM,0.0013,0.0001,0.0012
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDH+LFC:0.0/HBET:3-5/COM,0.0403,0.0322,0.0081
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDH+LFC:0.0/HBET:6-/COM,0.0040,0.0029,0.0010
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDM+LFC:4.0/H:1/COM,0.0058,0.0003,0.0054
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDM+LFC:4.0/H:2/COM,0.0035,0.0002,0.0033
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDM+LFC:4.0/HBET:3-5/COM,0.0267,0.0160,0.0106
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDM+LFC:4.0/HBET:6-/COM,0.0020,0.0015,0.0005
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDN/H:1/COM,0.0006,0.0000,0.0006
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDN/H:2/COM,0.0002,0.0002,0.0000
+ISL,Iceland,7,Westfjords,Com,CR/LWAL+CDN/HBET:3-5/COM,0.0053,0.0043,0.0010
+ISL,Iceland,7,Westfjords,Com,MUR/LWAL+CDN/H:1/COM,0.0003,0.0002,0.0001
+ISL,Iceland,7,Westfjords,Com,MUR/LWAL+CDN/H:2/COM,0.0003,0.0003,0.0000
+ISL,Iceland,7,Westfjords,Com,S/LFBR+CDH/H:1/COM,0.0001,0.0000,0.0001
+ISL,Iceland,7,Westfjords,Com,S/LFBR+CDH/H:2/COM,0.0001,0.0000,0.0001
+ISL,Iceland,7,Westfjords,Com,S/LFBR+CDH/HBET:3-5/COM,0.0000,0.0000,0.0000
+ISL,Iceland,7,Westfjords,Com,S/LFM+CDH/H:1/COM,0.0002,0.0000,0.0002
+ISL,Iceland,7,Westfjords,Com,S/LFM+CDH/H:2/COM,0.0002,0.0001,0.0000
+ISL,Iceland,7,Westfjords,Com,S/LFM+CDH/HBET:3-5/COM,0.0001,0.0000,0.0001
+ISL,Iceland,7,Westfjords,Com,W/LWAL+CDH/H:1/COM,0.0001,0.0000,0.0001
+ISL,Iceland,7,Westfjords,Com,W/LWAL+CDH/H:2/COM,0.0001,0.0000,0.0001
+ISL,Iceland,7,Westfjords,Com,W/LWAL+CDM/H:1/COM,0.0013,0.0001,0.0012
+ISL,Iceland,7,Westfjords,Com,W/LWAL+CDM/H:2/COM,0.0012,0.0005,0.0007
+ISL,Iceland,7,Westfjords,Com,W/LWAL+CDN/H:1/COM,0.0010,0.0003,0.0008
+ISL,Iceland,7,Westfjords,Com,W/LWAL+CDN/H:2/COM,0.0007,0.0002,0.0004
+ISL,Iceland,7,Westfjords,Ind,CR+PC/LFM+CDL/H:1/IND,0.0266,0.0217,0.0049
+ISL,Iceland,7,Westfjords,Ind,CR/LFM+CDM/H:1/IND,0.0052,0.0006,0.0046
+ISL,Iceland,7,Westfjords,Ind,CR/LWAL+CDH/H:1/IND,0.0015,0.0001,0.0014
+ISL,Iceland,7,Westfjords,Ind,CR/LWAL+CDM/HBET:3-5/IND,0.0052,0.0039,0.0013
+ISL,Iceland,7,Westfjords,Ind,MR/LWAL+CDL/H:1/IND,0.0011,0.0007,0.0004
+ISL,Iceland,7,Westfjords,Ind,MUR/LWAL+CDN/H:1/IND,0.0063,0.0058,0.0005
+ISL,Iceland,7,Westfjords,Ind,S/LFBR+CDH/H:1/IND,0.0068,0.0029,0.0039
+ISL,Iceland,7,Westfjords,Ind,S/LFM+CDH/H:1/IND,0.0015,0.0007,0.0008
+ISL,Iceland,7,Westfjords,Ind,S/LFM+CDH/HBET:3-5/IND,0.0001,0.0001,0.0000
+ISL,Iceland,7,Westfjords,Ind,W/LWAL+CDM/H:1/IND,0.0072,0.0048,0.0024
+ISL,Iceland,7,Westfjords,Res,CR/LDUAL+CDH+LFC:0.0/H:2/RES,0.0011,0.0003,0.0007
+ISL,Iceland,7,Westfjords,Res,CR/LDUAL+CDH+LFC:0.0/HBET:3-5/RES,0.0043,0.0011,0.0031
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDH+LFC:0.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDH+LFC:0.0/H:2/RES,0.0013,0.0002,0.0011
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDL+LFC:7.0/H:1/RES,0.0036,0.0014,0.0021
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDL+LFC:7.0/H:2/RES,0.0030,0.0014,0.0016
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDL+LFC:7.0/HBET:3-5/RES,0.0464,0.0228,0.0236
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:3.0/H:1/RES,0.0047,0.0001,0.0046
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:3.0/H:2/RES,0.0001,0.0000,0.0001
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:3.0/HBET:3-5/RES,0.0046,0.0023,0.0023
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:4.0/H:1/RES,0.0061,0.0005,0.0056
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:4.0/H:2/RES,0.0074,0.0015,0.0059
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:4.0/HBET:3-5/RES,0.0073,0.0019,0.0053
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:7.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:8.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:8.0/H:2/RES,0.0000,0.0000,0.0000
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDM+LFC:8.0/HBET:3-5/RES,0.0000,0.0000,0.0000
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDN/H:1/RES,0.0014,0.0002,0.0012
+ISL,Iceland,7,Westfjords,Res,CR/LWAL+CDN/H:2/RES,0.0075,0.0035,0.0040
+ISL,Iceland,7,Westfjords,Res,MUR/LWAL+CDN/H:1/RES,0.0064,0.0056,0.0008
+ISL,Iceland,7,Westfjords,Res,MUR/LWAL+CDN/H:2/RES,0.0864,0.0743,0.0121
+ISL,Iceland,7,Westfjords,Res,MUR/LWAL+CDN/HBET:3-5/RES,0.0011,0.0009,0.0002
+ISL,Iceland,7,Westfjords,Res,W/LWAL+CDH/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,7,Westfjords,Res,W/LWAL+CDH/H:2/RES,0.0025,0.0006,0.0019
+ISL,Iceland,7,Westfjords,Res,W/LWAL+CDH/HBET:3-5/RES,0.0003,0.0000,0.0003
+ISL,Iceland,7,Westfjords,Res,W/LWAL+CDL/H:1/RES,0.0101,0.0034,0.0067
+ISL,Iceland,7,Westfjords,Res,W/LWAL+CDL/H:2/RES,0.0002,0.0001,0.0001
+ISL,Iceland,7,Westfjords,Res,W/LWAL+CDM/H:1/RES,0.0163,0.0060,0.0103
+ISL,Iceland,7,Westfjords,Res,W/LWAL+CDN/H:1/RES,0.0307,0.0106,0.0201
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDH+LFC:8.0/H:1/COM,0.0002,0.0000,0.0001
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDH+LFC:8.0/H:2/COM,0.0003,0.0000,0.0003
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDH+LFC:8.0/HBET:3-5/COM,0.0002,0.0001,0.0000
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDH+LFC:8.0/HBET:6-/COM,0.0002,0.0001,0.0001
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDM+LFC:12.0/H:1/COM,0.0015,0.0000,0.0015
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDM+LFC:12.0/H:2/COM,0.0002,0.0001,0.0000
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDM+LFC:12.0/HBET:3-5/COM,0.0032,0.0022,0.0010
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDM+LFC:12.0/HBET:6-/COM,0.0044,0.0012,0.0032
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDN/H:1/COM,0.0002,0.0000,0.0001
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDN/H:2/COM,0.0008,0.0006,0.0002
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDN/HBET:3-5/COM,0.0080,0.0041,0.0039
+ISL,Iceland,8,Western Region,Com,CR+PC/LWAL+CDN/HBET:6-/COM,0.0008,0.0002,0.0006
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDH+LFC:8.0/H:1/COM,0.0040,0.0001,0.0039
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDH+LFC:8.0/H:2/COM,0.0049,0.0003,0.0045
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDH+LFC:8.0/HBET:3-5/COM,0.0187,0.0073,0.0114
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDH+LFC:8.0/HBET:6-/COM,0.0021,0.0017,0.0003
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDM+LFC:12.0/H:1/COM,0.0042,0.0001,0.0041
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDM+LFC:12.0/H:2/COM,0.0026,0.0002,0.0024
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDM+LFC:12.0/HBET:3-5/COM,0.0021,0.0009,0.0012
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDM+LFC:12.0/HBET:6-/COM,0.0196,0.0153,0.0044
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDN/H:1/COM,0.0000,0.0000,0.0000
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDN/H:2/COM,0.0026,0.0016,0.0010
+ISL,Iceland,8,Western Region,Com,CR/LWAL+CDN/HBET:3-5/COM,0.0116,0.0062,0.0054
+ISL,Iceland,8,Western Region,Com,MUR/LWAL+CDN/H:1/COM,0.0007,0.0006,0.0000
+ISL,Iceland,8,Western Region,Com,S/LFBR+CDH/H:1/COM,0.0005,0.0001,0.0004
+ISL,Iceland,8,Western Region,Com,S/LFBR+CDH/H:2/COM,0.0001,0.0001,0.0000
+ISL,Iceland,8,Western Region,Com,S/LFBR+CDH/HBET:3-5/COM,0.0001,0.0000,0.0001
+ISL,Iceland,8,Western Region,Com,S/LFM+CDH/H:1/COM,0.0002,0.0000,0.0001
+ISL,Iceland,8,Western Region,Com,S/LFM+CDH/H:2/COM,0.0005,0.0002,0.0004
+ISL,Iceland,8,Western Region,Com,S/LFM+CDH/HBET:3-5/COM,0.0001,0.0001,0.0000
+ISL,Iceland,8,Western Region,Com,W/LWAL+CDH/H:1/COM,0.0001,0.0000,0.0000
+ISL,Iceland,8,Western Region,Com,W/LWAL+CDH/H:2/COM,0.0001,0.0000,0.0001
+ISL,Iceland,8,Western Region,Com,W/LWAL+CDM/H:1/COM,0.0075,0.0020,0.0055
+ISL,Iceland,8,Western Region,Com,W/LWAL+CDM/H:2/COM,0.0004,0.0000,0.0003
+ISL,Iceland,8,Western Region,Com,W/LWAL+CDN/H:1/COM,0.0009,0.0001,0.0007
+ISL,Iceland,8,Western Region,Com,W/LWAL+CDN/H:2/COM,0.0003,0.0001,0.0002
+ISL,Iceland,8,Western Region,Ind,CR+PC/LFM+CDL/H:1/IND,0.7917,0.6215,0.1702
+ISL,Iceland,8,Western Region,Ind,CR/LFM+CDM/H:1/IND,0.1953,0.0477,0.1476
+ISL,Iceland,8,Western Region,Ind,CR/LWAL+CDH/H:1/IND,0.1569,0.0162,0.1407
+ISL,Iceland,8,Western Region,Ind,CR/LWAL+CDM/HBET:3-5/IND,0.1726,0.1452,0.0274
+ISL,Iceland,8,Western Region,Ind,MR/LWAL+CDL/H:1/IND,0.0567,0.0457,0.0110
+ISL,Iceland,8,Western Region,Ind,MUR/LWAL+CDN/H:1/IND,0.4745,0.4463,0.0282
+ISL,Iceland,8,Western Region,Ind,S/LFBR+CDH/H:1/IND,0.2234,0.0863,0.1372
+ISL,Iceland,8,Western Region,Ind,S/LFM+CDH/H:1/IND,0.1842,0.0769,0.1073
+ISL,Iceland,8,Western Region,Ind,S/LFM+CDH/HBET:3-5/IND,0.0086,0.0065,0.0021
+ISL,Iceland,8,Western Region,Ind,W/LWAL+CDM/H:1/IND,0.3157,0.1837,0.1320
+ISL,Iceland,8,Western Region,Res,CR/LDUAL+CDH+LFC:0.0/H:2/RES,0.0055,0.0023,0.0032
+ISL,Iceland,8,Western Region,Res,CR/LDUAL+CDH+LFC:0.0/HBET:3-5/RES,0.0053,0.0035,0.0019
+ISL,Iceland,8,Western Region,Res,CR/LDUAL+CDH+LFC:10.0/H:2/RES,0.0302,0.0109,0.0193
+ISL,Iceland,8,Western Region,Res,CR/LDUAL+CDH+LFC:10.0/HBET:3-5/RES,0.0346,0.0129,0.0216
+ISL,Iceland,8,Western Region,Res,CR/LDUAL+CDH+LFC:5.0/H:2/RES,0.0354,0.0088,0.0266
+ISL,Iceland,8,Western Region,Res,CR/LDUAL+CDH+LFC:5.0/HBET:3-5/RES,0.1797,0.0816,0.0981
+ISL,Iceland,8,Western Region,Res,CR/LDUAL+CDH+LFC:5.0/HBET:6-/RES,0.1895,0.0877,0.1018
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDH+LFC:0.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDH+LFC:0.0/H:2/RES,0.0054,0.0012,0.0042
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDH+LFC:10.0/H:1/RES,0.0001,0.0000,0.0001
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDH+LFC:10.0/H:2/RES,0.0329,0.0089,0.0240
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDH+LFC:5.0/H:1/RES,0.0000,0.0000,0.0000
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDH+LFC:5.0/H:2/RES,0.0032,0.0003,0.0029
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDH+LFC:5.0/HBET:3-5/RES,0.0872,0.0244,0.0629
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDL+LFC:7.0/H:1/RES,0.1443,0.0326,0.1117
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDL+LFC:7.0/H:2/RES,0.2081,0.0993,0.1089
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDL+LFC:7.0/HBET:3-5/RES,8.0529,4.4438,3.6091
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:12.0/H:1/RES,0.0247,0.0042,0.0205
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:12.0/H:2/RES,0.0572,0.0188,0.0384
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:12.0/HBET:3-5/RES,0.0422,0.0210,0.0212
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:7.0/H:1/RES,0.0765,0.0052,0.0713
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:7.0/H:2/RES,0.1359,0.0179,0.1180
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:7.0/HBET:3-5/RES,0.9314,0.4226,0.5088
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:7.0/HBET:6-/RES,0.3546,0.1871,0.1674
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:8.0/H:1/RES,0.0060,0.0013,0.0047
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:8.0/H:2/RES,0.1484,0.0623,0.0861
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:8.0/HBET:3-5/RES,0.1643,0.0829,0.0814
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDM+LFC:8.0/HBET:6-/RES,0.2862,0.1322,0.1539
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDN/H:1/RES,0.0470,0.0135,0.0335
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDN/H:2/RES,0.3671,0.1858,0.1813
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDN/HBET:3-5/RES,4.6849,2.5211,2.1638
+ISL,Iceland,8,Western Region,Res,CR/LWAL+CDN/HBET:6-/RES,0.8640,0.4214,0.4426
+ISL,Iceland,8,Western Region,Res,MCF/LWAL+CDL/H:1/RES,0.0007,0.0002,0.0005
+ISL,Iceland,8,Western Region,Res,MCF/LWAL+CDL/H:2/RES,0.2548,0.0968,0.1580
+ISL,Iceland,8,Western Region,Res,MUR/LWAL+CDN/H:1/RES,0.0496,0.0445,0.0051
+ISL,Iceland,8,Western Region,Res,MUR/LWAL+CDN/H:2/RES,1.2938,1.1049,0.1889
+ISL,Iceland,8,Western Region,Res,MUR/LWAL+CDN/HBET:3-5/RES,0.0112,0.0095,0.0017
+ISL,Iceland,8,Western Region,Res,W/LWAL+CDH/H:1/RES,0.0325,0.0072,0.0253
+ISL,Iceland,8,Western Region,Res,W/LWAL+CDH/H:2/RES,0.0728,0.0194,0.0533
+ISL,Iceland,8,Western Region,Res,W/LWAL+CDH/HBET:3-5/RES,0.0385,0.0102,0.0284
+ISL,Iceland,8,Western Region,Res,W/LWAL+CDL/H:1/RES,0.2124,0.0691,0.1432
+ISL,Iceland,8,Western Region,Res,W/LWAL+CDL/H:2/RES,0.0033,0.0012,0.0021
+ISL,Iceland,8,Western Region,Res,W/LWAL+CDM/H:1/RES,0.3279,0.1078,0.2201
+ISL,Iceland,8,Western Region,Res,W/LWAL+CDN/H:1/RES,0.5222,0.1665,0.3557
